@@ -1,0 +1,150 @@
+# Site settings
+title: Artificial Intelligence and Statistics Conference
+description: > # this means to ignore newlines until "baseurl:"
+  This is the website of the AISTATS 20XX conference.
+baseurl: "/aistats20XX" # the subpath of your site, e.g. /blog/
+
+# If you want to create a twitter account for your conference include
+# twitter name here
+twitter_username: 
+
+github_username:  aistats
+
+author:
+  name: AISTATS
+  # YOu might want to create an email for handling conference queries, e.g. aistats20XX@gmail.com. If you do, you can enter it here.
+  email: 
+comments: false
+
+# Build settings
+markdown: kramdown
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+# change encoding for the generated output files to utf-8
+encoding: utf-8
+remote_theme: lawrennd/proceedings
+style: aistats
+
+ghub:
+  edit: true
+  repository: aistats20XX
+
+
+# Place a banner image in assets/images and give its name here.
+banner: resort.png 
+
+conference:
+  full_name: Artificial Intelligence and Statistics
+  short_name: AISTATS
+  name: Artificial Intelligence and Statistics
+  # set to True if the programme is draft only.
+  draft: true
+  # set to True to hide tentative speakers
+  hide_tentative: true 
+  # Place an image of venue in assets/images and give its name here
+  image: conference-venue.png
+  proceedings:
+    # When proceedings are published add url here.
+    url:      
+    show: false
+  # Give details of the room in the venue here.  
+  room:
+  # Set the name of the venue (e.g. Caribe Hilton Hotel)  
+  venue:
+  # Give the url of the venue here.  
+  venue_url:
+  # Give the conference location in the form City, Country here.
+  location: 
+  year: 20XX
+  # Give the instance of the conference here (e.g. 24th)
+  instance:
+  # Styling for AISTATS is "International Conference"  
+  styling: International Conference on
+  # Give the individual days that the conference will be held on here.
+  dates:
+  - 20XX
+  -
+  # Give the submission site details here.
+  submission:
+    # Whether to show the submission site.
+    show: 
+    # The URL of the submission site.
+    url: 
+    # The name of the submission site (e.g. Microsoft CMT Website)
+    name: 
+  deadlines:
+    # Fill in the key dates as below.
+    - name: Submission server open
+      type: submission
+      date: 
+    - name: Paper submission deadline
+      type: submission
+      time: 
+    - name: Author response period starts
+      date: 
+    - name: Author response period ends
+      time: Saturday, 30 November 2019 20:59 UTC
+    - name: Paper decision notifications
+      date: 
+      type: decision
+    - name: Deadline for camera-ready papers
+      time: 
+    - name: Registration deadline
+      date:
+  # List program chairs here.      
+  chairs:
+  - type: Program Chairs
+    people:
+    - family: 
+      given:
+      # Give their personal web page.  
+      url: 
+      institute: 
+    - family: 
+      given: 
+      url: 
+      institute:
+  # If there's a local chair, or a general chair, you can add them here.
+  - type: Local Chair
+    people:
+    - family: 
+      given: 
+      url: 
+      institute:
+  # You might want Workflow Chair(s) to assist with your submission system and the review process.     
+  - type: Workflow Chairs
+    people:
+    - family: 
+      given: 
+      url: 
+      institute:
+  # Your Publication Chair handles processing of proceedings.      
+  - type: Publication Chair
+    people:
+    - family: 
+      given: 
+      url: 
+      institute:
+  # Publicity Chairs often handle websites, social media etc.      
+  - type: Publicity Chair
+    people:
+    - family: 
+      given: 
+      url: 
+      institute:
+  # D&I Chairs look after initiatives to ensure an inclusive conference      
+  - type: D&I Chair
+    people:
+    - family: 
+      given: 
+      url: 
+      institute:
+  # Sponsorship chairs handle bringing in money from sponsors.      
+  - type: Sponsorship Chair
+    people:
+    - family: 
+      given: 
+      url: 
+      institute: 
