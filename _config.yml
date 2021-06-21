@@ -1,8 +1,8 @@
 # Site settings
 title: Artificial Intelligence and Statistics Conference
 description: > # this means to ignore newlines until "baseurl:"
-  This is the website of the AISTATS 20XX conference.
-baseurl: "/aistats20XX" # the subpath of your site, e.g. /blog/
+  This is the website of the AISTATS 2022 conference.
+baseurl: "/aistats2022" # the subpath of your site, e.g. /blog/
 
 # If you want to create a twitter account for your conference include
 # twitter name here
@@ -29,7 +29,7 @@ style: aistats
 
 ghub:
   edit: true
-  repository: aistats20XX
+  repository: aistats2022
 
 
 # Place a banner image in assets/images and give its name here.
@@ -57,14 +57,14 @@ conference:
   venue_url:
   # Give the conference location in the form City, Country here.
   location: 
-  year: 20XX
+  year: 2022
   # Give the instance of the conference here (e.g. 24th)
   instance:
   # Styling for AISTATS is "International Conference"  
   styling: International Conference on
   # Give the individual days that the conference will be held on here.
   dates:
-  - 20XX
+  - 2022
   -
   # Give the submission site details here.
   submission:
@@ -85,7 +85,7 @@ conference:
     - name: Author response period starts
       date: 
     - name: Author response period ends
-      time: Saturday, 30 November 2019 20:59 UTC
+      time: 
     - name: Paper decision notifications
       date: 
       type: decision
