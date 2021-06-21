@@ -16,6 +16,9 @@ author:
   email: 
 comments: false
 
+exclude:
+- doc/
+
 # Build settings
 markdown: kramdown
 plugins:
