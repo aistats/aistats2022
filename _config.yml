@@ -36,7 +36,7 @@ ghub:
 
 
 # Place a banner image in assets/images and give its name here.
-banner: resort.png 
+banner: fromthelab.png 
 
 conference:
   full_name: Artificial Intelligence and Statistics
@@ -72,11 +72,11 @@ conference:
   # Give the submission site details here.
   submission:
     # Whether to show the submission site.
-    show: 
+    show: false 
     # The URL of the submission site.
-    url: 
+    url: cmt.whatever.org 
     # The name of the submission site (e.g. Microsoft CMT Website)
-    name: 
+    name: Microsoft CMT Website  
   deadlines:
     # Fill in the key dates as below.
     - name: Submission server open
@@ -98,41 +98,55 @@ conference:
       date:
   # List program chairs here.      
   chairs:
+  - type: General Chair 
+    people: 
+    - family: Camps-Valls 
+      given: Gustau
+      url: https://www.uv.es/gcamps/
+      institute: Universitat de València
   - type: Program Chairs
     people:
-    - family: 
-      given:
+    - family: Rodriguez Ruiz 
+      given: Francisco Jesus
       # Give their personal web page.  
-      url: 
-      institute: 
-    - family: 
-      given: 
-      url: 
-      institute:
-  # If there's a local chair, or a general chair, you can add them here.
-  - type: Local Chair
-    people:
-    - family: 
-      given: 
-      url: 
-      institute:
+      url: http://franrruiz.github.io/ 
+      institute: DeepMind  
+    - family: Valera Universitat de València
+      given: Isabel 
+      url: https://ivaleram.github.io/
+      institute: Saarland University
   # You might want Workflow Chair(s) to assist with your submission system and the review process.     
   - type: Workflow Chairs
     people:
-    - family: 
-      given: 
+    - family: Bauer 
+      given: Matthias 
       url: 
-      institute:
+      institute: DeepMind
+    - family: Vergari 
+      given: Antonio 
+      url: 
+      institute: UCLA/Edinburgh
+  # If there's a local chair, or a general chair, you can add them here.
+  - type: Local Chair
+    people: 
+    - family: Fernández Torres
+      given: Miguel Ángel
+      url: https://miguelangelft.github.io/
+      institute: Universitat de València
   # Your Publication Chair handles processing of proceedings.      
   - type: Publication Chair
     people:
-    - family: 
-      given: 
+    - family: Pradier 
+      given: Melanie F.  
       url: 
-      institute:
+      institute: Microsoft Research
   # Publicity Chairs often handle websites, social media etc.      
   - type: Publicity Chair
     people:
+    - family: Varando 
+      given: Gherardo 
+      url: https://gherardovarando.github.io
+      institute: Universitat de València
     - family: 
       given: 
       url: 
