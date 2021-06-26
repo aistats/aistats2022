@@ -111,7 +111,7 @@ conference:
       # Give their personal web page.  
       url: http://franrruiz.github.io/ 
       institute: DeepMind  
-    - family: Valera Universitat de València
+    - family: Valera
       given: Isabel 
       url: https://ivaleram.github.io/
       institute: Saarland University
