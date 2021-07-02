@@ -14,7 +14,7 @@ artificial intelligence, machine learning, statistics, and related areas.
 The dates are as follow:
 
 * **Abstract submission: Friday, October 8, 2021, 13:00 CET**
-* Submission deadline: Friday, October 15, 2021, 13:00 CET
+* **Submission deadline: Friday, October 15, 2021, 13:00 CET**
 * Supplementary material submission: Friday, October 22, 2021, 13:00 CET
 * Reviews released: Friday, November 26, 2021
 * Author rebuttals due: Friday, December 3, 2021, 13:00 CET
