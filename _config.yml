@@ -133,7 +133,7 @@ conference:
       - family: Vergari 
         given: Antonio 
         url: http://web.cs.ucla.edu/~aver/ 
-        institute: UCLA/Univeristy pf Edinburgh
+        institute: UCLA/Univeristy of Edinburgh
     # If there's a local chair, or a general chair, you can add them here.
     - type: Local Chair
       people: 
