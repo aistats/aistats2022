@@ -137,8 +137,8 @@ conference:
     # If there's a local chair, or a general chair, you can add them here.
     - type: Local Chair
       people: 
-      - family: Fernández Torres
-        given: Miguel Ángel
+      - family: Fernández-Torres
+        given: Miguel-Ángel
         url: https://miguelangelft.github.io/
         institute: Universitat de València
     # Your Publication Chair handles processing of proceedings.      
