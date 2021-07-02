@@ -7,7 +7,8 @@ weight: 1
 
 # The {{ site.conference.instance }} {{ site.conference.styling }} {{site.conference.full_name }}
 
-### {{ site.conference.dates[0] | date: "%B %-d"}} - {{ site.conference.dates.last | date: "%-d, %Y" }} {{ site.conference.location }}*
+### {{ site.conference.dates[0] | date: "%B %-d"}} - {{ site.conference.dates.last | date: "%-d, %Y" }}
+### {{ site.conference.location }}*
 
   
 The {{ site.conference.instance }} {{ site.conference.styling }}
