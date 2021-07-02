@@ -82,26 +82,26 @@ conference:
     # Fill in the key dates as below.
     - name: Abstract submission deadline
       type: submission
-      text: Friday, October 8, 2021, 13:00 CET
+      text: Friday, October 8, 2021, 11:59am UTC
       date: 2021-10-08 13:00 -13:00
     - name: Paper submission deadline
       type: submission
-      text: Friday, October 15, 2021, 13:00 CET  
+      text: Friday, October 15, 2021, 11:59am UTC  
     - name: Supplementary material submission
       type: submission
-      text: Friday, October 22, 2021, 13:00 CET 
+      text: Friday, October 22, 2021, 11:59am UTC 
     - name: Reviews released
       type: decision
       text: Friday, November 26, 2021 
     - name: Author rebuttals due 
-      text: Friday, December 3, 2021, 13:00 CET
+      text: Friday, December 3, 2021, 11:59am UTC
       type: submission
     - name: Final decisions
       type: decision
       text: Thursday, January 18, 2022  
     - name: Camera-ready deadline
       type: submission 
-      text: Wednesday, February 23, 2022, 13:00 CET 
+      text: Wednesday, February 23, 2022, 11:59am UTC
     - name: Tentative conference dates
       text: March 30 - April 1, 2022
   # List program chairs here.      

@@ -15,3 +15,6 @@ The deadlines are firm. We realize the pandemic is making lives difficult, so
 we ask the authors to factor in any uncertainties when preparing their papers.
 
 
+All submission deadlines are at 12:00 UTC. 
+Please refer to [UTC Time Zone Converter](https://www.utctime.net/utc-time-zone-converter)
+
