@@ -13,7 +13,7 @@ github_username:  aistats
 author:
   name: AISTATS
   # YOu might want to create an email for handling conference queries, e.g. aistats20XX@gmail.com. If you do, you can enter it here.
-  email: aistats2022pc@gmail.com  
+  email: aistats2022+pc@gmail.com  
 comments: false
 
 exclude:
@@ -73,7 +73,7 @@ conference:
   # Give the submission site details here.
   submission:
     # Whether to show the submission site.
-    show: true 
+    show: false 
     # The URL of the submission site.
     url: https://cmt3.research.microsoft.com/AISTATS2022/ 
     # The name of the submission site (e.g. Microsoft CMT Website)
@@ -149,7 +149,7 @@ conference:
         url: https://melaniefp.github.io/ 
         institute: Microsoft Research
     # Publicity Chairs often handle websites, social media etc.      
-    - type: Publicity Chair
+    - type: Publicity Chairs
       people:
       - family: Varando 
         given: Gherardo 
