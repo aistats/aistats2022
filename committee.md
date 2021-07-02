@@ -1,5 +1,5 @@
 ---
-title: Committees
+title: Organizers
 layout: organizers
 weight: 4
 ---
