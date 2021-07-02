@@ -59,43 +59,51 @@ conference:
   # Give the url of the venue here.  
   venue_url:
   # Give the conference location in the form City, Country here.
-  location: 
+  location: Valencia, Spain
   year: 2022
   # Give the instance of the conference here (e.g. 24th)
-  instance:
+  instance: 25th
   # Styling for AISTATS is "International Conference"  
   styling: International Conference on
   # Give the individual days that the conference will be held on here.
   dates:
-  - 2022
-  -
+  - 2022-03-30
+  - 2022-03-31
+  - 2022-04-01
   # Give the submission site details here.
   submission:
     # Whether to show the submission site.
-    show: false 
+    show: true 
     # The URL of the submission site.
-    url: cmt.whatever.org 
+    url: https://cmt3.research.microsoft.com/AISTATS2022/ 
     # The name of the submission site (e.g. Microsoft CMT Website)
     name: Microsoft CMT Website  
   deadlines:
     # Fill in the key dates as below.
-    - name: Submission server open
+    - name: Abstract submission deadline
       type: submission
-      date: 
+      text: Friday, October 8, 2021, 13:00 CET
+      date: 2021-10-08 13:00 -13:00
     - name: Paper submission deadline
       type: submission
-      time: 
-    - name: Author response period starts
-      date: 
-    - name: Author response period ends
-      time: 
-    - name: Paper decision notifications
-      date: 
+      text: Friday, October 15, 2021, 13:00 CET  
+    - name: Supplementary material submission
+      type: submission
+      text: Friday, October 22, 2021, 13:00 CET 
+    - name: Reviews released
       type: decision
-    - name: Deadline for camera-ready papers
-      time: 
-    - name: Registration deadline
-      date:
+      text: Friday, November 26, 2021 
+    - name: Author rebuttals due 
+      text: Friday, December 3, 2021, 13:00 CET
+      type: submission
+    - name: Final decisions
+      type: decision
+      text: Thursday, January 18, 2022  
+    - name: Camera-ready deadline
+      type: submission 
+      text: Wednesday, February 23, 2022, 13:00 CET 
+    - name: Tentative conference dates
+      text: March 30 - April 1, 2022
   # List program chairs here.      
   chairs:
     - type: General Chair 
