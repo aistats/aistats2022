@@ -79,6 +79,7 @@ conference:
     name: Microsoft CMT Website  
   deadlines:
     # Fill in the key dates as below.
+    # we use 
     - name: Abstract submission deadline
       type: submission
       #text: Friday, October 8, 2021, 11:59am UTC
@@ -103,7 +104,7 @@ conference:
     - name: Final decisions
       type: decision
       #text: Thursday, January 18, 2022  
-      date: 2021-11-26
+      date: 2022-01-18
     - name: Camera-ready deadline
       type: submission 
       #text: Wednesday, February 23, 2022, 11:59am UTC
