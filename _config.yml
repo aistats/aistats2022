@@ -34,6 +34,8 @@ ghub:
   edit: true
   repository: aistats2022
 
+## timezone for displayed times 
+TZ: UTC
 
 # Place a banner image in assets/images and give its name here.
 banner: ciudadciencialong.jpeg 
@@ -82,23 +84,29 @@ conference:
     # Fill in the key dates as below.
     - name: Abstract submission deadline
       type: submission
-      text: Friday, October 8, 2021, 11:59am UTC
-      date: 2021-10-08 13:00 -13:00
+      #text: Friday, October 8, 2021, 11:59am UTC
+      time: 2021-10-08 11:59 
+      important: true
     - name: Paper submission deadline
       type: submission
-      text: Friday, October 15, 2021, 11:59am UTC  
+      #text: Friday, October 15, 2021, 11:59am UTC  
+      time: 2021-10-15 11:59
+      important: true
     - name: Supplementary material submission
       type: submission
-      text: Friday, October 22, 2021, 11:59am UTC 
+      #text: Friday, October 22, 2021, 11:59am UTC 
+      time: 2021-10-22 11:59
     - name: Reviews released
       type: decision
-      text: Friday, November 26, 2021 
+      date: 2021-11-26
     - name: Author rebuttals due 
-      text: Friday, December 3, 2021, 11:59am UTC
+      #text: Friday, December 3, 2021, 11:59am UTC
+      time: 2021-12-03 11:59
       type: submission
     - name: Final decisions
       type: decision
-      text: Thursday, January 18, 2022  
+      #text: Thursday, January 18, 2022  
+      date: 2021-11-26
     - name: Camera-ready deadline
       type: submission 
       text: Wednesday, February 23, 2022, 11:59am UTC

@@ -13,14 +13,7 @@ artificial intelligence, machine learning, statistics, and related areas.
 
 The dates are as follow:
 
-* **Abstract submission: Friday, October 8, 2021, 11:59am UTC**
-* **Submission deadline: Friday, October 15, 2021, 11:59am UTC**
-* Supplementary material submission: Friday, October 22, 2021, 11:59am UTC
-* Reviews released: Friday, November 26, 2021
-* Author rebuttals due: Friday, December 3, 2021, 11:59am UTC
-* Final decisions: Thursday, January 18, 2022
-* Camera-ready deadline: Wednesday, February 23, 2022, 11:59am UTC
-* Tentative conference dates: March 30 - April 1, 2022
+{% include listdates.html %}
 
 The deadlines are firm. We realize the pandemic is making lives difficult, so
 we ask the authors to factor in any uncertainties when preparing their papers.
