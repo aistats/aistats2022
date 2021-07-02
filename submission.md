@@ -1,6 +1,7 @@
 ---
 title: Submission
 layout: submission
+hide: true
 weight: 6
 ---
 
