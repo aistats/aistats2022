@@ -97,71 +97,71 @@ conference:
     - name: Registration deadline
       date:
   # List program chairs here.      
-  #  chairs:
-  #  - type: General Chair 
-  #    people: 
-  #    - family: Camps-Valls 
-  #      given: Gustau
-  #      url: https://www.uv.es/gcamps/
-  #      institute: Universitat de València
-  #  - type: Program Chairs
-  #    people:
-  #    - family: Rodriguez Ruiz 
-  #      given: Francisco Jesus
-  #      # Give their personal web page.  
-  #      url: http://franrruiz.github.io/ 
-  #      institute: DeepMind  
-  #    - family: Valera
-  #      given: Isabel 
-  #      url: https://ivaleram.github.io/
-  #      institute: Saarland University
-  #  # You might want Workflow Chair(s) to assist with your submission system and the review process.     
-  #  - type: Workflow Chairs
-  #    people:
-  #    - family: Bauer 
-  #      given: Matthias 
-  #      url: 
-  #      institute: DeepMind
-  #    - family: Vergari 
-  #      given: Antonio 
-  #      url: 
-  #      institute: UCLA/Edinburgh
-  #  # If there's a local chair, or a general chair, you can add them here.
-  #  - type: Local Chair
-  #    people: 
-  #    - family: Fernández Torres
-  #      given: Miguel Ángel
-  #      url: https://miguelangelft.github.io/
-  #      institute: Universitat de València
-  #  # Your Publication Chair handles processing of proceedings.      
-  #  - type: Publication Chair
-  #    people:
-  #    - family: Pradier 
-  #      given: Melanie F.  
-  #      url: 
-  #      institute: Microsoft Research
-  #  # Publicity Chairs often handle websites, social media etc.      
-  #  - type: Publicity Chair
-  #    people:
-  #    - family: Varando 
-  #      given: Gherardo 
-  #      url: https://gherardovarando.github.io
-  #      institute: Universitat de València
-  #    - family: 
-  #      given: 
-  #      url: 
-  #      institute:
-  #  # D&I Chairs look after initiatives to ensure an inclusive conference      
-  #  - type: D&I Chair
-  #    people:
-  #    - family: 
-  #      given: 
-  #      url: 
-  #      institute:
-  #  # Sponsorship chairs handle bringing in money from sponsors.      
-  #  - type: Sponsorship Chair
-  #    people:
-  #    - family: 
-  #      given: 
-  #      url: 
-  #      institute: 
+  chairs:
+    - type: General Chair 
+      people: 
+      - family: Camps-Valls 
+        given: Gustau
+        url: https://www.uv.es/gcamps/
+        institute: Universitat de València
+    - type: Program Chairs
+      people:
+      - family: Rodriguez Ruiz 
+        given: Francisco Jesus
+        # Give their personal web page.  
+        url: http://franrruiz.github.io/ 
+        institute: DeepMind  
+      - family: Valera
+        given: Isabel 
+        url: https://ivaleram.github.io/
+        institute: Saarland University
+    # You might want Workflow Chair(s) to assist with your submission system and the review process.     
+    - type: Workflow Chairs
+      people:
+      - family: Bauer 
+        given: Matthias 
+        url: https://scholar.google.co.uk/citations?user=lWDq-ygAAAAJ&hl=en 
+        institute: DeepMind
+      - family: Vergari 
+        given: Antonio 
+        url: http://web.cs.ucla.edu/~aver/ 
+        institute: UCLA/Univeristy pf Edinburgh
+    # If there's a local chair, or a general chair, you can add them here.
+    - type: Local Chair
+      people: 
+      - family: Fernández Torres
+        given: Miguel Ángel
+        url: https://miguelangelft.github.io/
+        institute: Universitat de València
+    # Your Publication Chair handles processing of proceedings.      
+    - type: Publication Chair
+      people:
+      - family: Pradier 
+        given: Melanie F.  
+        url: https://melaniefp.github.io/ 
+        institute: Microsoft Research
+    # Publicity Chairs often handle websites, social media etc.      
+    - type: Publicity Chair
+      people:
+      - family: Varando 
+        given: Gherardo 
+        url: https://gherardovarando.github.io
+        institute: Universitat de València
+      - family: Johnson
+        given: Emmanuel 
+        url: https://jejjohnson.netlify.app/
+        institute: Universitat de València
+    # D&I Chairs look after initiatives to ensure an inclusive conference      
+    #    - type: D&I Chair
+    #      people:
+    #      - family: 
+    #        given: 
+    #        url: 
+    #        institute:
+    #    # Sponsorship chairs handle bringing in money from sponsors.      
+    #    - type: Sponsorship Chair
+    #      people:
+    #      - family: 
+    #        given: 
+    #        url:  
+    #        institute: 
