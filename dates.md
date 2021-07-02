@@ -11,3 +11,7 @@ weight: 1
 {% for deadline in site.conference.deadlines %} {{ deadline.name }} | {% if deadline.text %}{{ deadline.text }}{% elsif deadline.time %}<time datetime="{{ deadline.time }}">{{ deadline.time | date: "%A, %-d %B %Y %H:%M" }}{% if site.TZ %} ({{ site.TZ }}){% endif %}</time>{% elsif deadline.date %}<time datetime="{{ deadline.date }}">{{ deadline.date | date: "%A, %B %-d, %Y" }}</time>{% endif %}
 {% endfor %}
 
+The deadlines are firm. We realize the pandemic is making lives difficult, so
+we ask the authors to factor in any uncertainties when preparing their papers.
+
+

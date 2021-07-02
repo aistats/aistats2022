@@ -22,6 +22,9 @@ The dates are as follow:
 * Camera-ready deadline: Wednesday, February 23, 2022, 13:00 CET
 * Tentative conference dates: March 30 - April 1, 2022
 
+The deadlines are firm. We realize the pandemic is making lives difficult, so
+we ask the authors to factor in any uncertainties when preparing their papers.
+
 ### Summary
 
 AISTATS is an interdisciplinary gathering of researchers at the intersection of
