@@ -120,8 +120,8 @@ conference:
         institute: Universitat de València
     - type: Program Chairs
       people:
-      - family: Rodriguez Ruiz 
-        given: Francisco Jesus
+      - family: R. Ruiz 
+        given: Francisco J.
         # Give their personal web page.  
         url: http://franrruiz.github.io/ 
         institute: DeepMind  
