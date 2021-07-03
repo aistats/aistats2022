@@ -13,7 +13,7 @@ github_username:  aistats
 author:
   name: AISTATS
   # YOu might want to create an email for handling conference queries, e.g. aistats20XX@gmail.com. If you do, you can enter it here.
-  email: 
+  email: aistats2022+pc@gmail.com  
 comments: false
 
 exclude:
@@ -34,9 +34,8 @@ ghub:
   edit: true
   repository: aistats2022
 
-
 # Place a banner image in assets/images and give its name here.
-banner: resort.png 
+banner: ciudadciencialong.jpeg 
 
 conference:
   full_name: Artificial Intelligence and Statistics
@@ -59,95 +58,124 @@ conference:
   # Give the url of the venue here.  
   venue_url:
   # Give the conference location in the form City, Country here.
-  location: 
+  location: Valencia, Spain
   year: 2022
   # Give the instance of the conference here (e.g. 24th)
-  instance:
+  instance: 25th
   # Styling for AISTATS is "International Conference"  
   styling: International Conference on
   # Give the individual days that the conference will be held on here.
   dates:
-  - 2022
-  -
+  - 2022-03-30
+  - 2022-03-31
+  - 2022-04-01
   # Give the submission site details here.
   submission:
     # Whether to show the submission site.
-    show: 
+    show: false 
     # The URL of the submission site.
-    url: 
+    url: https://cmt3.research.microsoft.com/AISTATS2022/ 
     # The name of the submission site (e.g. Microsoft CMT Website)
-    name: 
+    name: Microsoft CMT Website  
   deadlines:
     # Fill in the key dates as below.
-    - name: Submission server open
+    # we use ISO8601 date and time format preferably  
+    - name: Abstract submission deadline
       type: submission
-      date: 
+      #text: Friday, October 8, 2021, 11:59am UTC
+      time: 2021-10-08 11:59Z 
+      important: true
     - name: Paper submission deadline
       type: submission
-      time: 
-    - name: Author response period starts
-      date: 
-    - name: Author response period ends
-      time: 
-    - name: Paper decision notifications
-      date: 
+      #text: Friday, October 15, 2021, 11:59am UTC  
+      time: 2021-10-15 11:59Z
+      important: true
+    - name: Supplementary material submission
+      type: submission
+      #text: Friday, October 22, 2021, 11:59am UTC 
+      time: 2021-10-22 11:59Z
+    - name: Reviews released
       type: decision
-    - name: Deadline for camera-ready papers
-      time: 
-    - name: Registration deadline
-      date:
+      date: 2021-11-26
+    - name: Author rebuttals due 
+      #text: Friday, December 3, 2021, 11:59am UTC
+      time: 2021-12-03 11:59Z
+      type: submission
+    - name: Final decisions
+      type: decision
+      date: 2022-01-18
+    - name: Camera-ready deadline
+      type: submission 
+      #text: Wednesday, February 23, 2022, 11:59am UTC
+      time: 2022-02-23 11:59Z
+    - name: Tentative conference dates
+      text: March 30 - April 1, 2022
   # List program chairs here.      
   chairs:
-  - type: Program Chairs
-    people:
-    - family: 
-      given:
-      # Give their personal web page.  
-      url: 
-      institute: 
-    - family: 
-      given: 
-      url: 
-      institute:
-  # If there's a local chair, or a general chair, you can add them here.
-  - type: Local Chair
-    people:
-    - family: 
-      given: 
-      url: 
-      institute:
-  # You might want Workflow Chair(s) to assist with your submission system and the review process.     
-  - type: Workflow Chairs
-    people:
-    - family: 
-      given: 
-      url: 
-      institute:
-  # Your Publication Chair handles processing of proceedings.      
-  - type: Publication Chair
-    people:
-    - family: 
-      given: 
-      url: 
-      institute:
-  # Publicity Chairs often handle websites, social media etc.      
-  - type: Publicity Chair
-    people:
-    - family: 
-      given: 
-      url: 
-      institute:
-  # D&I Chairs look after initiatives to ensure an inclusive conference      
-  - type: D&I Chair
-    people:
-    - family: 
-      given: 
-      url: 
-      institute:
-  # Sponsorship chairs handle bringing in money from sponsors.      
-  - type: Sponsorship Chair
-    people:
-    - family: 
-      given: 
-      url: 
-      institute: 
+    - type: General Chair 
+      people: 
+      - family: Camps-Valls 
+        given: Gustau
+        url: https://www.uv.es/gcamps/
+        institute: Universitat de València
+    - type: Program Chairs
+      people:
+      - family: R. Ruiz 
+        given: Francisco J.
+        # Give their personal web page.  
+        url: http://franrruiz.github.io/ 
+        institute: DeepMind  
+      - family: Valera
+        given: Isabel 
+        url: https://ivaleram.github.io/
+        institute: Saarland University
+    # You might want Workflow Chair(s) to assist with your submission system and the review process.     
+    - type: Workflow Chairs
+      people:
+      - family: Bauer 
+        given: Matthias 
+        url: https://scholar.google.co.uk/citations?user=lWDq-ygAAAAJ&hl=en 
+        institute: DeepMind
+      - family: Vergari 
+        given: Antonio 
+        url: http://web.cs.ucla.edu/~aver/ 
+        institute: UCLA/Univeristy of Edinburgh
+    # If there's a local chair, or a general chair, you can add them here.
+    - type: Local Chair
+      people: 
+      - family: Fernández-Torres
+        given: Miguel-Ángel
+        url: https://miguelangelft.github.io/
+        institute: Universitat de València
+    # Your Publication Chair handles processing of proceedings.      
+    - type: Publication Chair
+      people:
+      - family: Pradier 
+        given: Melanie F.  
+        url: https://melaniefp.github.io/ 
+        institute: Microsoft Research
+    # Publicity Chairs often handle websites, social media etc.      
+    - type: Publicity Chairs
+      people:
+      - family: Varando 
+        given: Gherardo 
+        url: https://gherardovarando.github.io
+        institute: Universitat de València
+      - family: Johnson
+        given: Emmanuel 
+        url: https://jejjohnson.netlify.app/
+        institute: Universitat de València
+    # D&I Chairs look after initiatives to ensure an inclusive conference      
+    #    - type: D&I Chair
+    #      people:
+    #      - family: 
+    #        given: 
+    #        url: 
+    #        institute:
+    #    # Sponsorship chairs handle bringing in money from sponsors.      
+    #    - type: Sponsorship Chair
+    #      people:
+    #      - family: 
+    #        given: 
+    #        url:  
+    #        institute: 
