@@ -173,7 +173,7 @@ conference:
     #        url: 
     #        institute:
     #    # Sponsorship chairs handle bringing in money from sponsors.      
-    - type: Sponsorship Chair
+    - type: Sponsorship Chairs
       people:
       - family: Artés
         given: Antonio
