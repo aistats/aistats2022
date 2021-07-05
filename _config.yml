@@ -173,9 +173,13 @@ conference:
     #        url: 
     #        institute:
     #    # Sponsorship chairs handle bringing in money from sponsors.      
-    #    - type: Sponsorship Chair
-    #      people:
-    #      - family: 
-    #        given: 
-    #        url:  
-    #        institute: 
+    - type: Sponsorship Chair
+      people:
+      - family: Artés
+        given: Antonio
+        url: http://www.tsc.uc3m.es/~antonio/antonio_artes/Home.html
+        institute: Universidad Carlos III de Madrid
+      - family: Vitrià
+        given: Jordi
+        url: https://algorismes.github.io
+        institute: Universitat de Barcelona
