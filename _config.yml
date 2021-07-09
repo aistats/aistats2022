@@ -6,7 +6,7 @@ baseurl: "/aistats2022" # the subpath of your site, e.g. /blog/
 
 # If you want to create a twitter account for your conference include
 # twitter name here
-twitter_username: 
+twitter_username: aistats_conf 
 
 github_username:  aistats
 
