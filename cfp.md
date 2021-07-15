@@ -9,6 +9,10 @@ We invite submissions to the 25th International Conference on Artificial
 Intelligence and Statistics (AISTATS), and welcome paper submissions on
 artificial intelligence, machine learning, statistics, and related areas.
 
+The AISTATS 2022 organization team is committed to diversity in all its forms,
+and encourages submissions from authors of underrepresented groups and
+geographies in ML/AI.
+
 ### Key dates
 
 The dates are as follow:
