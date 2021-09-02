@@ -10,10 +10,10 @@ The open exchange of ideas, the freedom of thought and expression, and respectfu
 ## Scope
 
 This CoC applies to all AISTATS activities, including but not limited to:
-Events organized, hosted, co-branded, or in cooperation with AISTATS.
-Submissions and reviewing processes run by AISTATS.
-Communications sent through communication channels associated with AISTATS, including but not limited to social media.
-Meetings and discussions associated with AISTATS activities.
+- Events organized, hosted, co-branded, or in cooperation with AISTATS.
+- Submissions and reviewing processes run by AISTATS.
+- Communications sent through communication channels associated with AISTATS, including but not limited to social media.
+- Meetings and discussions associated with AISTATS activities.
 
 If an activity is in cooperation with another organization, if the other organization has its own CoC, the union of both CoCs apply.
 
@@ -45,12 +45,12 @@ If the person receiving your report is not the designated responder for that eve
 Any participant asked by any member of the community to stop any unacceptable behavior is expected to comply immediately, even if the participant’s intent was not to offend—behavior can be harassing without an intent to offend.
 
 If a participant engages in behaviour that violates this CoC, AISTATS retains the right to take any action deemed appropriate, including but not limited to:
-Formal or informal warnings.
-Barring or limiting continued attendance and participation, including but not limited to expulsion from the event.
-Barring from participating in or deriving benefits from future AISTATS activities.
-Exclusion from AISTATS opportunities, e.g. leadership, organizing, volunteering, speaking, reviewing, sponsoring, etc.
-Reporting the incident to the offender’s local institution or funding agencies.
-Reporting the incident to local law enforcement.
+- Formal or informal warnings.
+- Barring or limiting continued attendance and participation, including but not limited to expulsion from the event.
+- Barring from participating in or deriving benefits from future AISTATS activities.
+- Exclusion from AISTATS opportunities, e.g. leadership, organizing, volunteering, speaking, reviewing, sponsoring, etc.
+- Reporting the incident to the offender’s local institution or funding agencies.
+- Reporting the incident to local law enforcement.
 
 The same actions may be taken toward any individual who engages in retaliation or who knowingly makes a false allegation of harassment.
 
