@@ -166,13 +166,13 @@ conference:
         url: https://jejjohnson.netlify.app/
         institute: Universitat de València
     # D&I Chairs look after initiatives to ensure an inclusive conference      
-    #    - type: D&I Chair
-    #      people:
-    #      - family: 
-    #        given: 
-    #        url: 
-    #        institute:
-    #    # Sponsorship chairs handle bringing in money from sponsors.      
+      - type: D&I Chair
+        people:
+        - family: Tan
+          given: Sarah
+          url: https://shftan.github.io/
+          institute: Facebook
+    # Sponsorship chairs handle bringing in money from sponsors.      
     - type: Sponsorship Chairs
       people:
       - family: Artés

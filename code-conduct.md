@@ -31,10 +31,7 @@ Inappropriate or unprofessional behavior that interferes with another participan
 
 ## Reporting
 
-If you have concerns related to your participation or interaction at an AISTATS activity, observe someone else’s difficulties, 
-or have any other concerns you wish to share, you can make a report by email at: [aistats2022+d&i@gmail.com](aistats2022+d&i@gmail.com).
-
-or during a virtual event by direct messages to the AISTATS Organizers.
+If you have concerns related to your participation or interaction at an AISTATS activity, observe someone else’s difficulties, or have any other concerns you wish to share, you can make a report by email at [aistats2022+d&i@gmail.com](mailto:aistats2022+d&i@gmail.com), or during a virtual event by direct messages to the AISTATS Organizers.
 
 There is no deadline by which to make a report.
 
