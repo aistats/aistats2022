@@ -65,6 +65,11 @@ not be mandatory for authors of accepted papers.** As soon as we have made a
 final decision, we will update the information to the webpage. Thank you for
 your patience and understanding.
 
+AISTATS will try to provide registration-free funding to eligible students
+(first authors), specially to those from underrepresented groups or
+demographics.
+
+
 ## Formatting and Supplementary Material
 
 Submissions are limited to 8 pages excluding references using the LaTeX style
