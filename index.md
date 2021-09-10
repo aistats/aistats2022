@@ -22,4 +22,5 @@ situation.
 
 ## Updates 
 
-* Sep 10, 2020. Abstract submission is now open ([Link to CMT](https://cmt3.research.microsoft.com/AISTATS2022/)). 
+* [Sep 10, 2020] The submission form is now open in CMT. 
+  Authors can submit their papers via this [link](https://cmt3.research.microsoft.com/AISTATS2022/). For questions, see the [FAQs and guidelines]({{ "faqs.html" | relative_url }}).
