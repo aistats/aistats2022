@@ -19,3 +19,7 @@ Since its inception in 1985, AISTATS has been an interdisciplinary gathering of 
 community, the decision will be made when possible based on the global health
 situation. 
 
+
+## Udpates 
+
+
