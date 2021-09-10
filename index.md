@@ -20,7 +20,7 @@ community, the decision will be made when possible based on the global health
 situation. 
 
 
-## Udpates 
+## Updates 
 
 - [Sep 10, 2021] **The submission form is now open in CMT**. Authors can submit
   their papers via [this link]({{ site.conference.submission.url }}). 
