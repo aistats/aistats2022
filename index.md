@@ -19,8 +19,3 @@ Since its inception in 1985, AISTATS has been an interdisciplinary gathering of 
 community, the decision will be made when possible based on the global health
 situation. 
 
-
-## Updates 
-
-* [Sep 10, 2020] The submission form is now open in CMT. 
-  Authors can submit their papers via this [link](https://cmt3.research.microsoft.com/AISTATS2022/). For questions, see the [FAQs and guidelines]({{ "faqs.html" | relative_url }}).
