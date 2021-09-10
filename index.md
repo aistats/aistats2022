@@ -25,4 +25,9 @@ situation.
 - [Sep 10, 2021] AISTATS is proud to announce a 
 [submission mentoring program]({{ "mentorship.html" | relative_url }}) to
 assist underrepresented and/or first-time AISTATS submitters. To apply to be a
-mentor or a mentee, [click here](LINK TO FORM) by September 20th 2021.
+mentor or a mentee, [click here](https://forms.gle/eQMxu293dM8ZfC6H7) by September 20th 2021.
+
+- [Sep 10, 2021] **The submission form is now open in CMT**. Authors can submit
+  their papers via [this link]({{ site.conference.submission.url }}). 
+For questions, see the [FAQs]({{ "faqs.html" | relative_url }}). 
+>>>>>>> 3a4b642124a2fa91b33f71a22279abb5102e844e
