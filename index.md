@@ -19,3 +19,9 @@ Since its inception in 1985, AISTATS has been an interdisciplinary gathering of 
 community, the decision will be made when possible based on the global health
 situation. 
 
+
+## Udpates 
+
+- [Sep 10, 2021] **The submission form is now open in CMT**. Authors can submit
+  their papers via [this link]({{ site.conference.submission.url }}). 
+For questions, see the [FAQs]({{ "faqs.html" | relative_url }}). 
