@@ -11,7 +11,7 @@ assist underrepresented and/or first-time AISTATS submitters. This program will
 match submitters (mentees) with senior researchers (mentors) to provide
 targeted feedback on their AISTATS submission. Applications to receive/provide
 mentorship will be accepted on a rolling basis until September 20th, 2021
-following this link. [TODO: LINK TO THE PUBLIC FORM] 
+following [this link](https://forms.gle/eQMxu293dM8ZfC6H7). 
 
 To apply to be a mentee, please prepare a PDF of up to 3-pages with a
 draft/excerpt/extended abstract of your submission, and 2-4 names of senior
