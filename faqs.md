@@ -1,7 +1,7 @@
 ---
-title: FAQs
+title: Submission FAQs
 layout: default 
-hide: true
+weight: 7
 ---
 
 
