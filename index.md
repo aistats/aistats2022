@@ -22,4 +22,7 @@ situation.
 
 ## Udpates 
 
-
+- [Sep 10, 2021] AISTATS is proud to announce a 
+[submission mentoring program]({{ "mentorship.html" | relative_url }}) to
+assist underrepresented and/or first-time AISTATS submitters. To apply to be a
+mentor or a mentee, [click here](LINK TO FORM) by September 20th 2021.
