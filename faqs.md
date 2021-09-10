@@ -1,7 +1,7 @@
 ---
 title: Submission FAQs
 layout: default 
-weight: 7
+weight: 5
 ---
 
 
