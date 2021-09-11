@@ -20,7 +20,7 @@ community, the decision will be made when possible based on the global health
 situation. 
 
 
-## Udpates 
+## Updates 
 
 - [Sep 10, 2021] AISTATS is proud to announce a 
 [submission mentoring program]({{ "mentorship.html" | relative_url }}) to
