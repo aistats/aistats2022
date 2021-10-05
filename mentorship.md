@@ -41,3 +41,28 @@ researchers to organize a match. For both mentees/mentors, your contact info
 will be shared with your mentor/mentee once matched. Email
 [aistats2022+mentorship@gmail.com](mailto:aistats2022+mentorship@gmail.com)
 if you have any questions.
+
+## Mentors
+
+The AISTATS 2022 chairs appreciate the help of all the mentors who kindly
+volunteered and contributed to the success of this program.
+
+- Aadirupa Saha (Microsoft Research)
+- Aryan Mokhtari (University of Texas at Austin)
+- Balaji Lakshminarayanan (Google Brain)
+- Bilal Alsallakh (Facebook Applied AI Research)
+- Boudour Ammar (University of Sfax)
+- Boyu Wang (Western University)
+- Bryon Aragam (University of Chicago)
+- Ganesh Venkatesh (Facebook)
+- Josiah Hanna (University of Wisconsin, Madison)
+- Li Chen (Facebook)
+- Mohammad Emtiyaz Khan (RIKEN AIP, Tokyo)
+- Nicole Mücke (TU Braunschweig)
+- Olivier Delalleau (Facebook AI Research)
+- Ruqi Zhang (UT Austin)
+- Sara Magliacane (University of Amsterdam)
+- Tom Sercu (Facebook AI Research)
+- Weiwei Zong (University of Michigan)
+- Yingzhen Yang (Arizona State University)
+- Zhiting Hu (UCSD)
