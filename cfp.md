@@ -125,14 +125,7 @@ in the proceedings of a conference, and should not be under consideration for
 publication at another conference at any point during the AISTATS review
 process. Submissions as extended abstracts (4 pages or less), to workshops or
 non-archival venues (without a proceedings), or to arXiv, will not be
-considered a concurrent submission. It is acceptable to have a substantially
-extended version of the submitted paper under consideration simultaneously for
-journal publication, so long as the journal version's planned publication date
-is in May 2022 or later, the journal submission does not interfere with AISTATS
-right to publish the paper, and the situation is clearly described at the time
-of AISTATS submission. Please describe the situation in the appropriate box on
-the submission page (and do not include author information in the submission
-itself, to avoid accidental unblinding). Authors are also allowed to give talks
+considered a concurrent submission. It is acceptable to have a substantially extended version of the submitted paper under consideration simultaneously for journal publication, so long as the journal version's planned publication date is in May 2022 or later and the journal submission does not interfere with AISTATS right to publish the paper. Authors are also allowed to give talks
 to restricted audiences on the work(s) submitted to AISTATS during the review.
 
 Reviewers will be instructed that tech reports (including reports on sites such
