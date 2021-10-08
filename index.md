@@ -22,6 +22,11 @@ situation.
 
 ## Updates 
 
+- [Oct 8, 2021] We announce a 24-h AISTATS abstract deadline extension. The new
+abstract submission deadline is **11:59AM UTC October 9th**! No similar extension
+will be made for the final paper submission on **11:59AM UTC October 15th**
+(Please note it's **AM** instead of **PM**).
+
 - [Sep 10, 2021] AISTATS is proud to announce a 
 [submission mentoring program]({{ "mentorship.html" | relative_url }}) to
 assist underrepresented and/or first-time AISTATS submitters. To apply to be a
