@@ -82,8 +82,8 @@ conference:
     # we use ISO8601 date and time format preferably  
     - name: Abstract submission deadline
       type: submission
-      #text: Friday, October 8, 2021, 11:59am UTC
-      time: 2021-10-08 11:59Z 
+      #text: Saturday, October 9, 2021, 11:59am UTC
+      time: 2021-10-09 11:59Z 
       important: true
     - name: Paper submission deadline
       type: submission
