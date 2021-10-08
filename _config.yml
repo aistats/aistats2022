@@ -66,9 +66,9 @@ conference:
   styling: International Conference on
   # Give the individual days that the conference will be held on here.
   dates:
+  - 2022-03-28
+  - 2022-03-29
   - 2022-03-30
-  - 2022-03-31
-  - 2022-04-01
   # Give the submission site details here.
   submission:
     # Whether to show the submission site.
@@ -108,8 +108,8 @@ conference:
       type: submission 
       #text: Wednesday, February 23, 2022, 11:59am UTC
       time: 2022-02-23 11:59Z
-    - name: Tentative conference dates
-      text: March 30 - April 1, 2022
+    - name: Conference dates
+      text: March 28 - 30, 2022
   # List program chairs here.      
   chairs:
     - type: General Chair 
