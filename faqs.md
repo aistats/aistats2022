@@ -61,7 +61,7 @@ Authors are encouraged to follow the suggested checklist provided at the end of 
 15. **Will the questions about industry/academic paper or hardware usage be visible to reviewers or affect the paper decision?**
 No, this information will not be visible to reviewers or ACs and will not be taken into account in the paper decisions. It will only be used for statistical purposes.
 
-16. **How can we put the obtain the citations (references) of our paper in the (Author, Year) format?**
+16. **How can we obtain the citations (references) of our paper in the (Author, Year) format?**
 One option to achieve that goal is to use the latex package `natbib`. For that, you may uncomment lines 19-21 and 24 at the beginning of your main TEX file. In other words, you can use the following:
 
 ```
