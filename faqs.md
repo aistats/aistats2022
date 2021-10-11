@@ -63,6 +63,7 @@ No, this information will not be visible to reviewers or ACs and will not be tak
 
 16. **How can we put the obtain the citations (references) of our paper in the (Author, Year) format?**
 One option to achieve that goal is to use the latex package `natbib`. For that, you may uncomment lines 19-21 and 24 at the beginning of your main TEX file. In other words, you can use the following:
+
 ```
 % If you use natbib package, activate the following three lines:
 \usepackage[round]{natbib}
@@ -76,7 +77,9 @@ One option to achieve that goal is to use the latex package `natbib`. For that, 
 
 \bibliography{your_bib_file}
 ```
+
 Note that, when using `natbib`, you can add or remove the parentheses as follows: 
+
 ```
 \cite{foo2021}   % produces Foo et al. (2021)
 \citep{foo2021}  % produces (Foo et al., 2021)
