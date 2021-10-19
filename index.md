@@ -7,7 +7,7 @@ weight: 1
 
 # The {{ site.conference.instance }} {{ site.conference.styling }} {{site.conference.full_name }}
 
-### (tentatively) {{ site.conference.dates[0] | date: "%B %-d"}} - {{ site.conference.dates.last | date: "%B %-d, %Y" }}
+### {{ site.conference.dates[0] | date: "%B %-d"}} - {{ site.conference.dates.last | date: "%B %-d, %Y" }}
 ### {{ site.conference.location }}*
 
 Since its inception in 1985, AISTATS has been an interdisciplinary gathering of researchers at the intersection of artificial intelligence, machine learning, statistics, and related areas.
