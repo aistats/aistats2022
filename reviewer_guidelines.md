@@ -97,7 +97,7 @@ clearly state its contributions, notation and results?**
     reader to reproduce its results.)
 
 6. **Relation to prior work: Is it clearly
-discussed how this work differs from or relates to previous contributions?**
+discussed how this work differs from or relates to prior work in the literature?**
 
     Explain whether the submission is written with due scholarship and suitably
     relates the proposed work to prior work in the literature. The related work
@@ -110,7 +110,13 @@ discussed how this work differs from or relates to previous contributions?**
     papers (though, especially for the camera ready versions of accepted papers,
     authors are encouraged to).
 
-7. **Reproducibility. Are there enough details to
+7. **Additional Comments. Add your additional comments, feedback and suggestions for
+improvement, as well as any further questions for the authors. (Optional)**
+
+    Add here any additional comment you might have about the submission, including
+    questions and suggestions for improvement.
+
+8. **Reproducibility. Are there enough details to
 reproduce the main results of this work?** 
 
     Please assess whether, with the
@@ -118,7 +124,7 @@ reproduce the main results of this work?**
     the main results of this work are reproducible or not. Lack of reproducibility
     should be listed among the weaknesses of the submission.
 
-8. **Assumptions and limitations. Does the paper explicitly and clearly state the main assumptions
+9. **Assumptions and limitations. Does the paper explicitly and clearly state the main assumptions
 and limitations of the work?** 
 
     Please assess whether, with the information
@@ -126,7 +132,7 @@ and limitations of the work?**
     assumptions and limitations of this work are clearly stated. If they are not,
     consider listing this as a weakness of the paper.
 
-9. **Societal impact: Does the
+10. **Societal impact: Does the
 paper discuss the societal impact of the work, including the impact that may
 arise from the misuse of the paper’s contribution?**
 
@@ -134,7 +140,7 @@ arise from the misuse of the paper’s contribution?**
     work. If not, please assess if the paper should include this point due to the
     nature of the research topic or ideas.
 
-10. **Code release. Do the authors promise to release code for this
+11. **Code release. Do the authors promise to release code for this
 submission?**
 
     If the authors have promised to release code in their paper (either as an
@@ -143,12 +149,6 @@ submission?**
     promise to release code are only accepted conditionally on the authors releasing
     their code publicly (e.g. on GitHub) by the camera ready deadline. You help the
     Program Chairs to identify such papers by answering this question.
-
-11. **Additional Comments. Add your additional comments, feedback and suggestions for
-improvement, as well as any further questions for the authors. (Optional)**
-
-    Add here any additional comment you might have about the submission, including
-    questions and suggestions for improvement.
 
 12. **Score:** 
 
