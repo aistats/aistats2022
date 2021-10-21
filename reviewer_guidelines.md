@@ -236,3 +236,33 @@ injury.**
     submissions and criticisms that are more bluntly stated. If you accidentally
     find out the identities of the authors, please do not divulge the identities to
     anyone.
+
+
+## Best Practices
+
++ **Be thoughtful.** The paper you are reviewing may have been written by a first
+year graduate student who is submitting to a conference for the first time and you
+don't want to crush their spirits.
+
++ **Be fair.** Do not let personal feelings affect your review.
+
++ **Be useful.** A good review is useful to all parties involved: authors, other
+reviewers, and area chairs.
+
++ **Be specific.** Do not make vague statements in your review, as they are
+unfairly difficult for authors to address.
+
++ **Be flexible.** The authors may address some points you raised in your review
+during the discussion period. Make an effort to update your understanding of the
+paper when new information is presented, and revise your review to reflect this.
+
++ **Be timely.** Please respect the deadlines and respond promptly during the
+discussion.  If you cannot complete your review on time, please let the Area Chair
+know as soon as possible.
+
+If someone pressures you into providing a positive or negative review for a
+submission, please notify the Program Chairs right away at
+[aistats2022+pc@gmail.com](mailto:aistats2022+pc@gmail.com).
+
+If you notice unethical or suspect behavior, please notify your Area Chair right
+away.
