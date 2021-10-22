@@ -6,7 +6,7 @@ weight: 6
 
 # AISTATS 2022 Reviewer Guidelines
 
-## How to review?
+## How to Review?
 
 The purpose of the review process is twofold. First, to identify papers which
 offer significant contributions to the fields of artificial intelligence and
@@ -26,7 +26,7 @@ _Acknowledgments: The guidelines in this document are partially adopted from the
 NeurIPS 2020 reviewer guidelines, which in turn utilize reviews written for some
 NeurIPS, ICML, and ICLR papers._
  
-## Review Form and Guidelines for writing a good review
+## Review Form and Guidelines for Writing a Good Review
 
 The review form will ask you for the following: 
 
