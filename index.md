@@ -22,6 +22,9 @@ situation.
 
 ## Updates 
 
+- [Nov 16, 2021] AISTATS is pleased to announce the first confirmed keynote speaker, 
+[Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/).
+
 - [Oct 8, 2021] We announce a 24-h AISTATS abstract deadline extension. The new
 abstract submission deadline is **11:59AM UTC October 9th**! No similar extension
 will be made for the final paper submission on **11:59AM UTC October 15th**
