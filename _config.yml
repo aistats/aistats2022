@@ -98,8 +98,8 @@ conference:
       type: decision
       date: 2021-11-26
     - name: Author rebuttals due 
-      #text: Friday, December 3, 2021, 11:59am UTC
-      time: 2021-12-03 11:59Z
+      #text: Sunday, December 5, 2021, 11:59am UTC
+      time: 2021-12-05 11:59Z
       type: submission
     - name: Final decisions
       type: decision

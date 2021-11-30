@@ -22,6 +22,9 @@ situation.
 
 ## Updates 
 
+- [Nov 30, 2021] We announce a 48-h deadline extension for the author rebuttal. The new
+deadline is **December 5th, 11:59AM UTC**! (Please note it's **AM** instead of PM).
+
 - [Nov 16, 2021] AISTATS is pleased to announce the first confirmed keynote speaker, 
 [Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/).
 
