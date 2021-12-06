@@ -152,8 +152,8 @@ after they have submitted their own review.
 
 Author names will be visible to area chairs and program chairs. Reviewers will
 not know the author names at any stage of the process. Reviewer names are
-visible to the area chair (and program chairs), but the reviewers will not know
-names of other reviewers.
+visible to the area chair and to the other reviewers of each paper (as well as
+to program chairs).
 
 _Isabel Valera and Francisco J. R. Ruiz_\
 AISTATS 2022 Program Chairs
