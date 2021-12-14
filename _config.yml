@@ -58,7 +58,7 @@ conference:
   # Give the url of the venue here.  
   venue_url:
   # Give the conference location in the form City, Country here.
-  location: Valencia, Spain
+  location: Virtual Conference
   year: 2022
   # Give the instance of the conference here (e.g. 24th)
   instance: 25th
