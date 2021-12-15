@@ -150,10 +150,10 @@ conference:
     # Your Publication Chair handles processing of proceedings.      
     - type: Publication Chair
       people:
-      - family: Pradier 
-        given: Melanie F.  
-        url: https://melaniefp.github.io/ 
-        institute: Microsoft Research
+      - family: Ghalebikesabi
+        given: Sahra
+        url: https://sghalebikesabi.github.io/
+        institute: University of Oxford
     # Publicity Chairs often handle websites, social media etc.      
     - type: Publicity Chairs
       people:
