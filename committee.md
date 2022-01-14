@@ -10,7 +10,7 @@ are auto-included by Jekyll
 {% endcomment %}
 
 
-# Area Chairs 
+### Area Chairs 
 
 
 - Aapo      Hyvarinen (University of Helsinki)
