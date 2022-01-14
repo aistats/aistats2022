@@ -57,7 +57,7 @@ conference:
   # Set the name of the venue (e.g. Caribe Hilton Hotel)  
   venue:
   # Give the url of the venue here.  
-  venue_url:
+  venue_url: https://virtual.aistats.org/
   # Give the conference location in the form City, Country here.
   location: Virtual Conference
   year: 2022
