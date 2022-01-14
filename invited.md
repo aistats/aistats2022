@@ -7,7 +7,7 @@ weight: 5
 
 # Invited Speakers
 
-## Professor Mihaela van der Schaar
+## [Professor Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/)
 
 
 <img alt="Professor Mihaela van der Schaar" align="left" width="150" src="assets/images/Mihaela_photo.jpg">
@@ -17,14 +17,14 @@ Mihaela was elected IEEE Fellow in 2009. She has received numerous awards, inclu
 Mihaela is personally credited as inventor on 35 USA patents, many of which are still frequently cited and adopted in standards. She has made over 45 contributions to international standards for which she received 3 ISO Awards.
 
 
-## Professor Laure Zanna
+## [Professor Laure Zanna](https://laurezanna.github.io/)
 
 <img alt="Professor Laure Zanna" align="left" width='150' src="assets/images/laure_photo.jpg">
 #### Biography:
 Laure Zanna is a Professor in Mathematics & Atmosphere/Ocean Science at the Courant Institute, New York University. Her research focuses on the dynamics of the climate system and the main emphasis of her work is to study the influence of the ocean on local and global scales. Prior to NYU, she was a faculty member at the University of Oxford until 2019, and obtained her PhD in 2009 in Climate Dynamics from Harvard University. She was the recipient of the 2020 Nicholas P. Fofonoff Award from the American Meteorological Society “For exceptional creativity in the development and application of new concepts in ocean and climate dynamics”. She is the lead principal investigator of the NSF-NOAA Climate Process Team on Ocean Transport and Eddy Energy, and M2LInES – an international effort to improve climate models with scientific machine learning. She currently serves as an editor for the Journal of Climate, a member on the International CLIVAR Ocean Model Development Panel, and on the CESM Advisory Board.
 
 
-## Professor Eric J. Tchetgen Tchetgen
+## [Professor Eric J. Tchetgen Tchetgen](https://statistics.wharton.upenn.edu/profile/ett/)
 
 <img alt="Professor Eric J. Tchetgen Tchetgen" align="left" width="150" src="assets/images/eric_photo.jpeg">
 #### Biography:
