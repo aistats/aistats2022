@@ -109,6 +109,9 @@ conference:
       type: submission 
       #text: Wednesday, February 23, 2022, 11:59am UTC
       time: 2022-02-23 11:59Z
+    - name: SlidesLive last upload
+      type: submission
+      text: Wednesday, March 16, 2022 (AOE)
     - name: Conference dates
       text: March 28 - 30, 2022
   # List program chairs here.      
