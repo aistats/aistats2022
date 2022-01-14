@@ -3,6 +3,7 @@ title: Artificial Intelligence and Statistics Conference
 description: > # this means to ignore newlines until "baseurl:"
   This is the website of the AISTATS 2022 conference.
 baseurl: "/aistats2022" # the subpath of your site, e.g. /blog/
+timezone: Europe/Madrid
 
 # If you want to create a twitter account for your conference include
 # twitter name here
