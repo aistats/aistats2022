@@ -3,6 +3,7 @@ title: Artificial Intelligence and Statistics Conference
 description: > # this means to ignore newlines until "baseurl:"
   This is the website of the AISTATS 2022 conference.
 baseurl: "/aistats2022" # the subpath of your site, e.g. /blog/
+timezone: Europe/Madrid
 
 # If you want to create a twitter account for your conference include
 # twitter name here
@@ -56,7 +57,7 @@ conference:
   # Set the name of the venue (e.g. Caribe Hilton Hotel)  
   venue:
   # Give the url of the venue here.  
-  venue_url:
+  venue_url: https://virtual.aistats.org/
   # Give the conference location in the form City, Country here.
   location: Virtual Conference
   year: 2022
@@ -108,6 +109,9 @@ conference:
       type: submission 
       #text: Wednesday, February 23, 2022, 11:59am UTC
       time: 2022-02-23 11:59Z
+    - name: SlidesLive last upload
+      type: submission
+      text: Wednesday, March 16, 2022 (AOE)
     - name: Conference dates
       text: March 28 - 30, 2022
   # List program chairs here.      
