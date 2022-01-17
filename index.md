@@ -18,6 +18,11 @@ Since its inception in 1985, AISTATS has been an interdisciplinary gathering of 
 attend an in-person meeting, the safety and well-being of the AISTATS community is our
 first priority.
 
+## Conference Registration 
+
+Registration is now open on the conference virtual site: 
+[https://virtual.aistats.org/](https://virtual.aistats.org/).
+
 
 ## Updates 
 
