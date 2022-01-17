@@ -9,6 +9,14 @@ List your Senior Program Committee Members here, the Program chairs etc
 are auto-included by Jekyll 
 {% endcomment %}
 
+## Program Committee
+
+AISTATS is possible thanks to the tireless work of the whole community,
+including a large team of [reviewers]({{"reviewers.html" | relative_url }}) 
+and area chairs. Reviewers are essential to
+selecting a good program, and to providing constructive feedback to authors.
+The program chairs wish to give a special thank you to all our reviewers and
+area chairs for their hard work.
 
 ### Area Chairs 
 
@@ -17,11 +25,11 @@ are auto-included by Jekyll
 - Aaron      Schein (Columbia University)
 - Abdeslam      Boularias (Rutgers University)
 - Adrian      Weller (University of Cambridge)
-- Alan    J   Malek (DeepMind)
+- Alan    J.   Malek (DeepMind)
 - Ali Taylan      Cemgil (DeepMind)
 - Alp      Kucukelbir (Columbia University)
 - Amin      Karbasi (Yale)
-- Amir-massoud      Farahmand (Vector Institute and University of Toronto)
+- Amir-Massoud      Farahmand (Vector Institute and University of Toronto)
 - Anant      Raj (INRIA)
 - Andreas      Damianou (Spotify)
 - Antonio      Artés Rodríguez (Universidad Carlos III de Madrid)
@@ -41,7 +49,7 @@ are auto-included by Jekyll
 - Chris      Holmes (Oxford University)
 - Chris       Maddison (University of Toronto)
 - Chris      Oates (Newcastle University)
-- Chris   H   Wiggins (Columbia University)
+- Chris   H.   Wiggins (Columbia University)
 - Christian      Andersson Naesseth (Columbia University)
 - Christos       Dimitrakakis (University of Oslo / Chalmers University of Technology)
 - Danica   J.   Sutherland (University of British Columbia)
@@ -67,15 +75,15 @@ are auto-included by Jekyll
 - Hisashi      Kashima (Kyoto University)
 - Ichiro      Takeuchi (Nagoya Institute of Technology / RIKEN)
 - Issei      Sato (The university of Tokyo/RIKEN)
-- Jakub   M   Tomczak (Vrije Universiteit Amsterdam)
+- Jakub   M.   Tomczak (Vrije Universiteit Amsterdam)
 - James       McInerney (Netflix)
-- Jason   Q   Xu (Duke University)
+- Jason   Q.   Xu (Duke University)
 - Javier      Gonzalez (Microsoft Research)
 - Jens      Kober (TU Delft)
 - Jeremy       Manning (Dartmouth College)
 - Jin       Tian (Iowa State University)
 - John      Paisley (Columbia University)
-- Jonathan   H   Huggins (Boston University)
+- Jonathan   H.   Huggins (Boston University)
 - Jose Miguel      Hernandez-Lobato (University of Cambridge)
 - Ju      Sun (University of Minnesota)
 - Julian       McAuley (UCSD)
@@ -83,7 +91,7 @@ are auto-included by Jekyll
 - Krikamol       Muandet (Max Planck Institute for Intelligent Systems)
 - Krishna      Balasubramanian (University of California, Davis)
 - Kun      Zhang (Carnegie Mellon University)
-- Lam   M   Nguyen (IBM Research, Thomas J. Watson Research Center)
+- Lam   M.   Nguyen (IBM Research, Thomas J. Watson Research Center)
 - Laura       Balzano (University of Michigan)
 - Lin       Yang (UCLA)
 - Liping      Liu (Tufts University)
@@ -99,8 +107,8 @@ are auto-included by Jekyll
 - Martin      Takac (Mohamed bin Zayed University of Artificial Intelligence)
 - Masashi      Sugiyama (RIKEN/The University of Tokyo)
 - Matthew   B.   Blaschko (KU Leuven)
-- Matthew   D   Hoffman (Google)
-- Mauricio   A   Alvarez (University of Sheffield)
+- Matthew   D.   Hoffman (Google)
+- Mauricio   A.   Alvarez (University of Sheffield)
 - Maurizio      Filippone (EURECOM)
 - Mehrdad      Farajtabar (DeepMind)
 - Meisam       Razaviyayn (USC)
@@ -119,7 +127,7 @@ are auto-included by Jekyll
 - Ole       Winther (DTU and KU)
 - Onno       Zoeter (Booking)
 - Pablo       Moreno (Amazon)
-- Pedro   A   Ortega (DeepMind)
+- Pedro   A.   Ortega (DeepMind)
 - Peter      Bartlett (UC Berkeley)
 - Pierre      Alquier (RIKEN)
 - Qiang       Sun (University of Toronto)
@@ -130,7 +138,7 @@ are auto-included by Jekyll
 - Razvan      Pascanu (Google Deepmind)
 - Ricardo      Silva (University College London)
 - Roberto      Calandra (Facebook)
-- Roger   B   Grosse (University of Toronto)
+- Roger   B.   Grosse (University of Toronto)
 - Roman      Garnett (Washington University in St. Louis)
 - Ruoyu      Sun (University of Illinois at Urbana-Champaign)
 - Samet      Oymak (University of California, Riverside)
