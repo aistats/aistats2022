@@ -58,7 +58,7 @@ instructions:
 
 1. Please use the **UPDATED** LaTeX style file available at:
    <http://aistats.org/aistats2022/AISTATS2022CameraReadyPaperPack.zip>.
-2. Use the **NEW `sample\_paper.tex`** file as the starting file for your submission,
+2. Use the **NEW `sample_paper.tex`** file as the starting file for your submission,
    as it contains some important changes.
 3. Camera-ready submissions are **limited to 9 pages**, excluding acknowledgements,
    references, and (optionally) textual supplementary material. Please use the
@@ -97,7 +97,7 @@ instructions:
 13. Please consider the following colorblind-friendly guidelines for
     introducing color in your figures and plots:
     <https://usabilla.com/blog/how-to-design-for-color-blindness>.
-14. Further formatting instructions can be found in the `sample\_paper.pdf` file
+14. Further formatting instructions can be found in the `sample_paper.pdf` file
     available at
     <http://aistats.org/aistats2022/AISTATS2022CameraReadyPaperPack.zip>.
 
