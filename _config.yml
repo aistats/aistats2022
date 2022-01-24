@@ -52,6 +52,10 @@ conference:
     # When proceedings are published add url here.
     url:      
     show: false
+  sponsors:
+    # link to external sponsor page 
+    url: https://virtual.aistats.org/Conferences/2022/Sponsors
+    show: true
   # Give details of the room in the venue here.  
   room:
   # Set the name of the venue (e.g. Caribe Hilton Hotel)  
