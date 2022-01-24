@@ -197,3 +197,12 @@ deadline.
 We thank [Roman Garnett](https://www.cse.wustl.edu/~garnett/) for kindly
 helping the AISTATS Chairs to set up and host the paper style checker. 
 
+
+## Instructions for Posters
+
+TBA (tentative deadline: February 28th, 2022) 
+
+## Instructions for Recorded Presentations
+
+TBA (tentative deadline: March 14th, 2022)
+
