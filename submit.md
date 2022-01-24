@@ -154,3 +154,46 @@ sufficient for one author to sign the agreement on behalf of all authors.
 
 
 ## Submission to CMT
+
+Camera-ready submissions must be submitted via CMT:
+<https://cmt3.research.microsoft.com/AISTATS2022>. If you are also a reviewer or
+Area Chair, make sure that your role is set to “Author”. To change your role to
+“Author,” click next to “Select Your Role” in the top right of the page.
+
+In the CMT Author Console there is now a new link to "Create camera-ready
+submission" for each accepted paper. Use this link to submit camera-ready
+papers. The CMT form will ask you for the title, the abstract, the list of
+authors (only changes to the author order are allowed at this point, as per the
+submission agreement), and the following files (where 642 is to be replaced by
+your submission ID): **642.pdf**, **642-Permission.pdf**, 
+and **642-supp.zip (optional)**.
+
+Please ensure that the submitted **title and abstract match the ones in the
+camera-ready version**, and do not include any LaTeX commands or other
+non-human-readable markup.
+
+The final version will appear in the [PMLR
+proceedings](https://proceedings.mlr.press/), published by JMLR W&CP. The CMT
+will ask you to agree to have your work published by JMLR according to the
+agreement outlined
+[here](http://proceedings.mlr.press/pmlr-license-agreement.pdf).
+
+You will also be asked to provide **a submission code obtained by an automated
+style checker**. To obtain the code, please follow these steps: 
+
+1. Go to
+   <https://research.engineering.wustl.edu/machinelearning/pub/AISTATS2022> 
+2. Provide the paper ID (from CMT), your name (just one author), your e-mail
+   and the submission PDF file. If the paper passes the style checks, you will
+obtain a submission code. (Please ignore the warnings of the style checker.)
+**The submission code is only valid for this particular PDF file**. If you
+further edit the PDF, you will need to obtain another submission code.  
+3. When submitting your paper on CMT,  you need to provide the style checker
+   submission code.
+
+You may continue to edit your camera-ready submissions until the camera-ready
+deadline.
+
+We thank [Roman Garnett](https://www.cse.wustl.edu/~garnett/) for kindly
+helping the AISTATS Chairs to set up and host the paper style checker. 
+
