@@ -41,7 +41,11 @@ supplementary material (optional).
 references and acknowledgements, and optionally the textual supplementary
 material. **Differently from the initial submission**, now the textual
 supplementary material ("the appendix") **must** follow the paper content (after
-Acknowledgements and References) in the **same PDF file**.
+Acknowledgements and References) in the **same PDF file**. You will also have to
+obtain a submission code from the paper style checker by uploading this PDF
+file to 
+<https://research.engineering.wustl.edu/machinelearning/pub/AISTATS2022> 
+(see [Submission to CMT](#submission-to-cmt) for details).
 
 
 The PDF file should be **named 642.pdf**, with 642 replaced with your submission ID
@@ -174,11 +178,24 @@ will ask you to agree to have your work published by JMLR according to the
 agreement outlined
 [here](http://proceedings.mlr.press/pmlr-license-agreement.pdf).
 
+You will also be asked to provide **a submission code obtained by an automated
+style checker**. To obtain the code, please follow these steps: 
+
+1. Go to
+   <https://research.engineering.wustl.edu/machinelearning/pub/AISTATS2022> 
+2. Provide the paper ID (from CMT), your name (just one author), your e-mail
+   and the submission PDF file. If the paper passes the style checks, you will
+obtain a submission code. (Please ignore the warnings of the style checker.)
+**The submission code is only valid for this particular PDF file**. If you
+further edit the PDF, you will need to obtain another submission code.  
+3. When submitting your paper on CMT,  you need to provide the style checker
+   submission code.
+
 You may continue to edit your camera-ready submissions until the camera-ready
 deadline.
 
 We thank [Roman Garnett](https://www.cse.wustl.edu/~garnett/) for kindly
-helping the AISTATS Chairs with the paper style checker.
+helping the AISTATS Chairs to set up and host the paper style checker. 
 
 
 ## Instructions for Posters
