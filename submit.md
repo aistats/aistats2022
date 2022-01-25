@@ -19,8 +19,8 @@ you follow the instructions contained on this page.
 The deadline for the camera-ready submission is **Wednesday, February 23rd,
 2022, 11:59am UTC**. This is a strict deadline, so please be aware of the time
 zone and take into account that it is **AM** and _not_ PM. You may find it useful to
-use an online time converter like this one:
-<https://www.timeanddate.com/worldclock/converter.html?iso=20220223T115900&p1=tz_jst&p2=tz_hkt&p3=1440&p4=tz_et&p5=tz_pt>
+use an online time converter like
+[this one](https://www.timeanddate.com/worldclock/converter.html?iso=20220223T115900&p1=tz_jst&p2=tz_hkt&p3=1440&p4=tz_et&p5=tz_pt>).
 
 
 No extensions to the deadline will be granted in any cases. If you miss the
