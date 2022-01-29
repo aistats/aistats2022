@@ -8,15 +8,9 @@ weight: 1
 # The {{ site.conference.instance }} {{ site.conference.styling }} {{site.conference.full_name }}
 
 ### {{ site.conference.dates[0] | date: "%B %-d"}} - {{ site.conference.dates.last | date: "%B %-d, %Y" }}
-### {{ site.conference.location }}*
+### {{ site.conference.location }}
 
 Since its inception in 1985, AISTATS has been an interdisciplinary gathering of researchers at the intersection of artificial intelligence, machine learning, statistics, and related areas.
-
-
-\***Update**: In response to the renewed uncertainty due to COVID-19 variants, AISTATS
-2022 will be held as a fully virtual conference. Even though many of us were excited to
-attend an in-person meeting, the safety and well-being of the AISTATS community is our
-first priority.
 
 ## Conference Registration 
 
@@ -25,6 +19,15 @@ Registration is now open on the conference virtual site:
 
 
 ## Updates 
+
+
+- [Jan 29, 2022] [Accepted papers]({{ "accepted.html" | relative_url }})
+  have been announced.
+
+- [Dec 14, 2021] In response to the renewed uncertainty due to COVID-19
+  variants, AISTATS 2022 will be held as a fully virtual conference. Even
+though many of us were excited to attend an in-person meeting, the safety and
+well-being of the AISTATS community is our first priority.
 
 - [Dec 14, 2021] We are pleased to confirm our complete list of keynote speakers:
 [Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/)
