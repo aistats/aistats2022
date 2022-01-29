@@ -21,7 +21,7 @@ Registration is now open on the conference virtual site:
 ## Updates 
 
 
-- [Jan 28, 2022] [Accepted papers](https://virtual.aistats.org/virtual/2022/papers.html) 
+- [Jan 29, 2022] [Accepted papers]({{ "accepted.html" | relative_url }})
   have been announced.
 
 - [Dec 14, 2021] In response to the renewed uncertainty due to COVID-19
