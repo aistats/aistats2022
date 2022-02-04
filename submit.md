@@ -200,9 +200,35 @@ helping the AISTATS Chairs to set up and host the paper style checker.
 
 ## Instructions for Posters
 
-TBA (tentative deadline: February 28th, 2022) 
+**deadline: March 14th, 2022 AOE** 
+
+Your paper will be presented in a virtual format, most likely in Topia.io or
+GatherTown and on the live virtual site. You should prepare 
+**two graphics** for
+your paper by March 14th AoE (anywhere on Earth):
+
+- A PNG thumbnail in 5:4 aspect ratio that represents your poster as a thumbnail.
+Typically this thumbnail is a single figure from your paper (but it could be
+anything that represents your paper)
+
+- A PNG of your poster in 16:9 aspect ratio. 
+
+We will provide the exact pixel dimensions and file size limits 
+and instructions for uploading these images in the future (email and here). 
+Please whitelist `do-not-reply@aistats.org` in your spam filter
+to ensure that you receive future email communications. 
+
 
 ## Instructions for Recorded Presentations
 
-TBA (tentative deadline: March 14th, 2022)
+**deadline: March 14th, 2022 AOE** 
 
+You will also pre-record a video presentation. 
+
+Papers accepted as **Oral will record a 12-minute video** 
+and papers accepted as **Poster will record a 5-minutes
+video**. SlidesLive will be sending you an email directly from slideslive.com
+with further instructions on how to record and upload your video. Please
+whitelist `slideslive.com` in your spam filter and coordinate with your
+co-authors on recording and uploading your video. The deadline for uploading
+this video is March 14th AoE (anywhere on Earth).
