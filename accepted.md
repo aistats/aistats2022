@@ -9,7 +9,7 @@ weight: 5
 {%- if site.data.accepted_papers -%}
 <ul>
 	{%- for paper in site.data.accepted_papers -%}
-	<li> <b>{{paper.PaperTitle}}</b> <br>{{paper.AuthorNames || remove: "*"}}</li>
+	<li> <b>{{paper.PaperTitle}}</b> <br>{{paper.AuthorNames | remove: "*"}}</li>
 	<br>
 	{%- endfor -%}
 </ul>
