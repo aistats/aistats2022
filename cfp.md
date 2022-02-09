@@ -87,7 +87,7 @@ Submissions will be through CMT
 approximately 4-6 weeks before the abstract submission deadline.
 
 Formatting information (including LaTeX style files) is available at
-[{{ "AISTATS2022CameraReadyPaperPack.zip" | absolute_url }}]({{ "AISTATS2022CameraReadyPaperPack.zip" | relative_url }}). We do not support
+[{{ "AISTATS2022CameraReadyPaperPack.zip" | absolute_url }}]({{ "AISTATS2022CameraReadyPaperPack.zip" | absolute_url }}). We do not support
 submission in preparation systems other than LaTeX. Please do not modify the
 layout given by the style file. If you have questions about the style file or
 its usage, please contact the publications chair.
