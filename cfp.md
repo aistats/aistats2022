@@ -4,6 +4,13 @@ layout: default
 weight: 2
 ---
 
+## Camera Ready 
+
+Please check the [Camera Ready instructions]({{ "submit.html" | relative_url }}) 
+for details on the camera-ready paper preparation and to download the updated 
+LaTeX style file.
+
+## Call for Papers
 
 We invite submissions to the 25th International Conference on Artificial
 Intelligence and Statistics (AISTATS), and welcome paper submissions on
