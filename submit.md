@@ -200,28 +200,38 @@ helping the AISTATS Chairs to set up and host the paper style checker.
 
 ## Instructions for Posters
 
-**deadline: March 14th, 2022 AOE** 
+**deadline: March 14th, 2022 AoE** 
 
-Your paper will be presented in a virtual format, most likely in Topia.io or
-GatherTown and on the live virtual site. You should prepare 
-**two graphics** for
-your paper by March 14th AoE (anywhere on Earth):
+To see the full instructions, visit [the wiki](https://wiki.eventhosts.cc/en/reference/posteruploads).
 
-- A PNG thumbnail in 5:4 aspect ratio that represents your poster as a thumbnail.
+Your paper will be presented in a virtual format on GatherTown and on the live virtual
+site. You should prepare **two graphics** for your paper by March 14th AoE (anywhere
+on Earth):
+
+- A PNG of your **poster** in landscape format (recommended 16:9 aspect ratio). The
+maximum dimensions of a poster are 5120 x 2880 pixels and no more than 10 MB.
+
+- A PNG **thumbnail** (recommended 5:4 aspect ratio) that represents your poster.
 Typically this thumbnail is a single figure from your paper (but it could be
-anything that represents your paper)
+anything that represents your paper). The maximum dimensions of thumbnails are
+320 x 256 pixels and no more than 5 MB.
 
-- A PNG of your poster in 16:9 aspect ratio. 
+The Poster Upload page has an option, *Scale images to fit*, which will scale
+your upload so that it fits within the limits (exceptionally large images cannot
+be scaled). Using this option will allow images that are larger to be uploaded
+and rescaled as they are uploaded.
 
-We will provide the exact pixel dimensions and file size limits 
-and instructions for uploading these images in the future (email and here). 
-Please whitelist `do-not-reply@aistats.org` in your spam filter
-to ensure that you receive future email communications. 
+Use a solid background for your posters and thumbnails as opposed to transparent.
+This works better in the virtual poster spaces.
+
+To submit your poster, follow the [submission link](https://virtual.aistats.org/PosterUpload).
+If you don't see your paper listed on the page, try logging in using the
+**same email address** that you used on CMT.
 
 
 ## Instructions for Recorded Presentations
 
-**deadline: March 14th, 2022 AOE** 
+**deadline: March 14th, 2022 AoE** 
 
 You will also pre-record a video presentation. 
 
