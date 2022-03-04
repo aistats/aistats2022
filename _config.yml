@@ -198,3 +198,7 @@ conference:
         given: Jordi
         url: https://algorismes.github.io
         institute: Universitat de Barcelona
+    - type: Volunteer Chair
+      people:
+      - family: Irfan
+        given: Talha
