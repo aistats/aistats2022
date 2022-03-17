@@ -2,6 +2,7 @@
 title: Camera Ready 
 layout: default 
 weight: 7 
+hide: true
 ---
 
 
