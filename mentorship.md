@@ -1,5 +1,5 @@
 ---
-title: Submission Mentorship
+title: Mentorship
 layout: default
 weight: 5
 ---

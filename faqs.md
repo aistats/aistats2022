@@ -2,6 +2,7 @@
 title: Submission FAQs
 layout: default 
 weight: 5
+hide: true
 ---
 
 

@@ -56,6 +56,10 @@ conference:
     # link to external sponsor page 
     url: https://virtual.aistats.org/Conferences/2022/Sponsors
     show: true
+  registration:
+    # link to registration site
+    url: https://virtual.aistats.org/ 
+    show: true
   # Give details of the room in the venue here.  
   room:
   # Set the name of the venue (e.g. Caribe Hilton Hotel)  
@@ -77,7 +81,7 @@ conference:
   # Give the submission site details here.
   submission:
     # Whether to show the submission site.
-    show: true 
+    show: false 
     # The URL of the submission site.
     url: https://cmt3.research.microsoft.com/AISTATS2022/ 
     # The name of the submission site (e.g. Microsoft CMT Website)
