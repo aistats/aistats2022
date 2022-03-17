@@ -2,6 +2,7 @@
 title: Call for Papers
 layout: default
 weight: 2
+hide: true
 ---
 
 ## Camera Ready 
