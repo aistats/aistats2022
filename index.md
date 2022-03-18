@@ -20,6 +20,12 @@ Registration is now open on the conference virtual site:
 
 ## Updates 
 
+- [March 18, 2022] Congratulations to the Test of Time Award recipients 
+and to the nominated for Best Paper Award, [details here](awards.html).  
+The Best Paper Award will be revealed during the Award Ceremony, Tuesday 29th.   
+
+- [March 18, 2022] The [Program Schedule](http://aistats.org/aistats2022/schedule.html) 
+  is available. 
 
 - [Jan 29, 2022] [Accepted papers]({{ "accepted.html" | relative_url }})
   have been announced.
