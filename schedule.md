@@ -25,7 +25,7 @@ see <https://mementor.net> for exact times.
 
 | time ([UTC](https://www.utctime.net/))  | **Day 1: Mon, March 28**                                            |
 --------------|---------------------------------------------------------------------|
-| 07:00-08:30 | Affinity Groups Speed Networking Social                             |
+| 07:00-08:30 | [Affinity Groups Speed Networking Social](community.html#affinity-groups-speed-networking-social) |
 | 08:30-09:30 | [Oral Session 1](orals.html#day-1-mon-march-28) : Learning theory / General ML         |
 | 09:30-10:30 | [Oral Session 2](orals.html#day-1-mon-march-28) : Bayesian methods / Sampling methods  |
 | 10:30-11:30 | Break                                                               |
@@ -47,13 +47,13 @@ see <https://mementor.net> for exact times.
 |09:30-10:30| [Oral Session 5](orals.html#day-2-tue-march-29): Kernels / Optimization / Deep learning        |
 |10:30-11:30| [Oral Session 6](orals.html#day-2-tue-march-29): Learning theory / Sampling methods            |
 |11:30-12:30| Break                                                                                          |
-|12:30-14:00| Affinity Group Supported Pathways to ML Research Panel                                         |
+|12:30-14:00| [Affinity Group Supported Pathways to ML Research Panel](community.html#affinity-group-supported-pathways-to-ml-research-panel-and-social)|
 |14:00-15:00| **Invited talk - Laure Zanna**                                                                 |
 |15:00-16:00| [Oral Session 7](orals.html#day-2-tue-march-29): Bayesian methods / Deep learning              |
 |16:00-16:45| Break                                                                                          |
 |16:45-17:00| [Awards](awards.html) ceremony                                                                 |
 |17:00-18:00| [Test-of-time](awards.html#aistats-2022-test-of-time-award),  J. Z. Kolter and T. S. Jakkola   |
-|18:00-19:00| [WiML](https://wimlworkshop.org/)-[CWS](https://cwstat.org/) Social                            |
+|18:00-19:00| [WiML-CWS Social](community.html#wiml-cws-social)                                              |
 
 
 ## Schedule for Day 3: Wed, March 30
