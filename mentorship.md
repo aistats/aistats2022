@@ -4,12 +4,64 @@ layout: default
 weight: 5
 ---
 
-## Submission Mentoring Program
+
+# Live Mentoring Events
+
+The AISTATS 2022 organizing committee is pleased to announce several live
+mentoring events for conference attendees to give and receive mentorship.
+Please contact 
+[aistats2022+mentorship@gmail.com](aistats2022+mentorship@gmail.com)
+if you have any questions.
+
+## MeMentor mentoring sessions
+
+Various times from Monday, March 28th to Wednesday, March 30th; 
+see <https://mementor.net> for exact times.
+The goal of these mentoring sessions is to facilitate sharing of experiences
+between members of the community which would not happen otherwise. The
+following mentors will be hosting mentoring sessions on MeMentor: 
+
+#### Mentors
+
+- Asma Ghandeharioun (Google Research)
+- Elizaveta Semenova (Imperial College London)
+- Matteo Pirotta (Meta AI Research)
+- Priyank Jaini (Google Brain)
+- Ricky T.Q. Chen (Meta AI Research) 
+- Shagun Sodhani (Meta AI Research)
+- Swati Rajwal (NSUT, India)
+- Weiwei Zong (Henry Ford Health System)
+- Wenbin Zhang (Carnegie Mellon University)
+
+## Mentoring Retrospectives Event
+
+_Wednesday, March 30th, 17:00-19:00 UTC_
+
+This event celebrates the submission mentorship program, with mentees
+presenting talks on their papers, and talks from experienced researchers in the
+ML community on good research practices. Please check back again as the agenda
+gets updated. 
+For the link to join the event, please check the
+[virtual site](https://virtual.aistats.org/).
+
+Agenda (tentative; all times are [UTC](https://www.utctime.net/))
+
+| 17:00-17:20  |  _Learnings from AISTATS 2022 Submission Mentoring Program_, Pablo Samuel Castro (Google Brain) and Sarah Tan (Meta) |
+| 17:20-17:40  |  **Mentee Talks and Experience Sharing** | 
+|	         |    _AD-CGAN: Contrastive Generative Adversarial Network for Anomaly Detection_, Laya Rafiee (Concordia University)    |
+| 17:45-18:30  | **Good Research Practices**
+|                 |  How to write a great paper, Bilal Alsallakh (Meta)  |
+|                 |  How to present your research, Li Chen (Meta)        |
+|                 |  How to read papers, Aaditya Ramdas (Carnegie Mellon University) |
+| 18:30-19:00  | Open Social                                                       |
+
+
+# Submission Mentoring Program
 
 The AISTATS 2022 organizing committee is pleased to announce a pilot program to
 assist underrepresented and/or first-time AISTATS submitters. This program will
 match submitters (mentees) with senior researchers (mentors) to provide
-targeted feedback on their AISTATS submission. Applications to receive/provide
+ targeted feedback on their AISTATS submission. Applications to receive/provide
 mentorship will be accepted on a rolling basis until September 20th, 2021
 following [this link](https://forms.gle/eQMxu293dM8ZfC6H7). 
 
