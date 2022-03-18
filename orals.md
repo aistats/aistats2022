@@ -8,6 +8,7 @@ hide: true
 <style>
 details {
 margin: 5pt;
+width: 400pt;
 }
 
 details > summary {
@@ -16,26 +17,32 @@ details > summary {
   font-weight: bold;
 }
 
-
 details > ul {
 }
 
 details[open] > summary {
-  background-color:  #fff;
 }
 
 </style>
 
-<h1>{{ site.conference.short_name }} {{ site.conference.year }} Oral Session Schedule</h1>
+<h1>{{ site.conference.short_name }} {{ site.conference.year }} Oral Sessions Schedule</h1>
 
-(click on session titles to show the list of papers) 
+**All times are UTC.**
+You can check current UTC time [here](https://www.utctime.net/)
+and convert to other time zones using online time zones converters such as
+[utctime.net](https://www.utctime.net/utc-time-zone-converter) or [time.is](https://time.is/UTC).
+Be aware of the summer time change in Europe on March 27.
+
 
 ## Day 1: Mon, March 28 
+
+(click on session titles to show the list of papers) 
 
 <table>
 <tr>   
 <th> Session Title </th>
-<th> Time  (UTC) </th>
+<th> Time  (<a href="https://www.utctime.net/">UTC</a>) 
+</th>
 </tr>
 
 <tr>
@@ -125,10 +132,14 @@ details[open] > summary {
 
 ## Day 2: Tue, March 29 
 
+
+(click on session titles to show the list of papers) 
+
 <table>
 <tr>   
 <th> Session Title </th>
-<th> Time (UTC) </th>
+<th> Time (<a href="https://www.utctime.net/">UTC</a>) 
+</th>
 </tr>
 
 <tr>
@@ -200,6 +211,9 @@ details[open] > summary {
 
 ## Day 3: Wed, March 30 
 
+
+(click on session titles to show the list of papers) 
+
 <table>
 
 <tr>
@@ -207,7 +221,7 @@ details[open] > summary {
 Session Title
 </th>
 <th>
-Time (UTC) 
+Time (<a href="https://www.utctime.net/">UTC</a>) 
 </th> 
 </tr>
 
