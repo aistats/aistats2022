@@ -58,7 +58,7 @@ see <https://mementor.net> for exact times.
 
 ## Schedule for Day 3: Wed, March 30
 
-| time ([UTC](https://www.utctime.net/))  | **Day 2: Tue, March 29**                                            |
+| time ([UTC](https://www.utctime.net/))  | **Day 3: Wed, March 30**                                            |
 |-------------|-------------------------------------------------------------------------------------------------|
 | 07:00-08:00 | [Oral Session 8](orals.html#day-3-wed-march-30): Learning theory / Sampling methods             |  
 | 08:00-09:00 | [Oral Session 9](orals.html#day-3-wed-march-30): Reinforcement learning / Deep learning         |
