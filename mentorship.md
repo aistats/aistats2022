@@ -15,8 +15,9 @@ if you have any questions.
 
 ## MeMentor mentoring sessions
 
-Various times from Monday, March 28th to Wednesday, March 30th; 
-see <https://mementor.net> for exact times.
+_Various times from Monday, March 28th to Wednesday, March 30th; 
+see <https://mementor.net> for exact times._
+
 The goal of these mentoring sessions is to facilitate sharing of experiences
 between members of the community which would not happen otherwise. The
 following mentors will be hosting mentoring sessions on MeMentor: 
@@ -24,7 +25,9 @@ following mentors will be hosting mentoring sessions on MeMentor:
 #### Mentors
 
 - Asma Ghandeharioun (Google Research)
+- David Abel (DeepMind)
 - Elizaveta Semenova (Imperial College London)
+- Kevin Murphy (Google Brain)
 - Matteo Pirotta (Meta AI Research)
 - Priyank Jaini (Google Brain)
 - Ricky T.Q. Chen (Meta AI Research) 
@@ -33,27 +36,28 @@ following mentors will be hosting mentoring sessions on MeMentor:
 - Weiwei Zong (Henry Ford Health System)
 - Wenbin Zhang (Carnegie Mellon University)
 
-## Mentoring Retrospectives Event
+## Mentoring Retrospectives Workshop 
 
 _Wednesday, March 30th, 17:00-19:00 UTC_
 
 This event celebrates the submission mentorship program, with mentees
 presenting talks on their papers, and talks from experienced researchers in the
-ML community on good research practices. Please check back again as the agenda
-gets updated. 
+ML community on good research practices.
+The workshop ends with an open social for AISTATS attendees. 
 For the link to join the event, please check the
 [virtual site](https://virtual.aistats.org/).
 
-Agenda (tentative; all times are [UTC](https://www.utctime.net/))
+Agenda (all times are [UTC](https://www.utctime.net/))
 
-| 17:00-17:20  |  _Learnings from AISTATS 2022 Submission Mentoring Program_, Pablo Samuel Castro (Google Brain) and Sarah Tan (Meta) |
-| 17:20-17:40  |  **Mentee Talks and Experience Sharing** | 
+| 17:00-17:20 <br /> (livestream)  |  _Learnings from AISTATS 2022 Submission Mentoring Program_, Pablo Samuel Castro (Google Brain) and Sarah Tan (Meta) |
+| 17:20-17:40 <br /> (livestream)  |  **Mentee Talks and Experience Sharing** | 
 |	         |    _AD-CGAN: Contrastive Generative Adversarial Network for Anomaly Detection_, Laya Rafiee (Concordia University)    |
-| 17:45-18:30  | **Good Research Practices**
-|                 |  How to write a great paper, Bilal Alsallakh (Meta)  |
-|                 |  How to present your research, Li Chen (Meta)        |
-|                 |  How to read papers, Aaditya Ramdas (Carnegie Mellon University) |
-| 18:30-19:00  | Open Social                                                       |
+| 17:45-18:30 <br /> (livestream) | **Good Research Practices**
+|                 |  _How to write a great paper_, Bilal Alsallakh (Meta)  |
+|                 |  _How to present your research_, Li Chen (Meta)        |
+|                 |  _How to read papers_, Aaditya Ramdas (Carnegie Mellon University) |
+|                 |  _Tips for grad school research_, Matias Valdenegro (University of Groningen)|
+| 18:30-19:00 <br /> <nobr>(no livestream)</nobr> | **Open Social**                     |
 
 
 # Submission Mentoring Program
