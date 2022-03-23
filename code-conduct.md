@@ -35,6 +35,7 @@ If you have concerns related to your participation or interaction at an AISTATS
 activity, observe someone else's difficulties, or have any other concerns you
 wish to share, you can make a report via email [aistatshotline@gmail.com](mailto:aistatshotline@gmail.com)
 or by phone call at +1 858-208-3810 (toll-free throughout the US and Canada).
+
 There is no deadline by which to make a report.
 
 If the person receiving your report is not the designated responder for that
