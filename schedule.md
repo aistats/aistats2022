@@ -23,19 +23,19 @@ see <https://mementor.net> for exact times.
 
 ## Schedule for Day 1: Mon, March 28
 
-| time ([UTC](https://www.utctime.net/))  | **Day 1: Mon, March 28**                                            |
---------------|---------------------------------------------------------------------|
+| time ([UTC](https://www.utctime.net/))  | **Day 1: Mon, March 28**                                              |
+--------------|---------------------------------------------------------------------------------------------------|
 | 07:00-08:30 | [Affinity Groups Speed Networking Social](community.html#affinity-groups-speed-networking-social) |
-| 08:30-09:30 | [Oral Session 1](orals.html#day-1-mon-march-28) : Learning theory / General ML         |
-| 09:30-10:30 | [Oral Session 2](orals.html#day-1-mon-march-28) : Bayesian methods / Sampling methods  |
-| 10:30-11:30 | Break                                                               |
-| 11:30-13:00 | Poster session 1                                                    |
-| 13:00-14:00 | [Oral Session 3](orals.html#day-1-mon-march-28): Causality / Trustworthy ML            |
-| 14:00-15:00 | [Oral Session 4](orals.html#day-1-mon-march-28): Bandits / Reinforcement learning      |
-| 15:00-16:00 | Break                                                               |
-| 16:00-16:15 | Opening remarks                                                     |
-| 16:15-17:15 | **Invited talk - Eric J. Tchetgen Tchetgen**                                                      |
-| 17:15-18:45 | Poster session 2                                                    |
+| 08:30-09:30 | [Oral Session 1](orals.html#day-1-mon-march-28) : Learning theory / General ML                    |
+| 09:30-10:30 | [Oral Session 2](orals.html#day-1-mon-march-28) : Bayesian methods / Sampling methods             |
+| 10:30-11:30 | Break                                                                                             |
+| 11:30-13:00 | Poster session 1                                                                                  |
+| 13:00-14:00 | [Oral Session 3](orals.html#day-1-mon-march-28): Causality / Trustworthy ML                       |
+| 14:00-15:00 | [Oral Session 4](orals.html#day-1-mon-march-28): Bandits / Reinforcement learning                 |
+| 15:00-16:00 | Break                                                                                             |
+| 16:00-16:15 | Opening remarks                                                                                   |
+| 16:15-17:15 | [**Invited talk - Eric J. Tchetgen Tchetgen**](invitedtalks.html#day-1-mon-march-28)              |
+| 17:15-18:45 | Poster session 2                                                                                  |
 
 
 ## Schedule for Day 2: Tue, March 29
@@ -48,7 +48,7 @@ see <https://mementor.net> for exact times.
 |10:30-11:30| [Oral Session 6](orals.html#day-2-tue-march-29): Learning theory / Sampling methods            |
 |11:30-12:30| Break                                                                                          |
 |12:30-14:00| [Affinity Group Supported Pathways to ML Research Panel](community.html#affinity-group-supported-pathways-to-ml-research-panel-and-social)|
-|14:00-15:00| **Invited talk - Laure Zanna**                                                                 |
+|14:00-15:00| [**Invited talk - Laure Zanna**](invitedtalks.html#day-2-tue-march-29)                         |
 |15:00-16:00| [Oral Session 7](orals.html#day-2-tue-march-29): Bayesian methods / Deep learning              |
 |16:00-16:45| Break                                                                                          |
 |16:45-17:00| [Awards](awards.html) ceremony                                                                 |
@@ -63,7 +63,7 @@ see <https://mementor.net> for exact times.
 | 07:00-08:00 | [Oral Session 8](orals.html#day-3-wed-march-30): Learning theory / Sampling methods             |  
 | 08:00-09:00 | [Oral Session 9](orals.html#day-3-wed-march-30): Reinforcement learning / Deep learning         |
 | 09:00-09:30 | Break                                                                                           |
-| 09:30-10:30 | **Invited talk - Mihaela van der Schaar**                                                       |
+| 09:30-10:30 | [**Invited talk - Mihaela van der Schaar**](invitedtalks.html#day-3-wed-march-30)               |
 | 10:30-12:00 | Poster session 4                                                                                |
 | 12:00-13:00 | Break                                                                                           |
 | 13:00-14:00 | [Oral Session 10](orals.html#day-3-wed-march-30): Gaussian processes / Optimization / Online ML |
