@@ -70,4 +70,4 @@ see <https://mementor.net> for exact times.
 | 14:00-15:00 | [Oral Session 11](orals.html#day-3-wed-march-30): Learning Theory / Kernels                     |
 | 15:00-15:30 | Break                                                                                           |
 | 15:30-17:00 | Poster session 5                                                                                |
-| 17:00-19:00 | Mentoring Retrospectives Workshop                                                                  |
+| 17:00-19:00 | [Mentoring Retrospectives Workshop](mentorship.html#mentoring-retrospectives-workshop)          |
