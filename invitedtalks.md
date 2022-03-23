@@ -63,7 +63,7 @@ the door to discovering new physics from data and enhance climate predictions.
 Yet, many questions remain unanswered, making the next decade exciting and
 challenging for hybrid climate modeling.
 
-## Day 3: Wed, March 29 
+## Day 3: Wed, March 30 
 
 ### _Using ML to Discover the Underlying Models of Medicine_
 ### Mihaela van der Schaar 
