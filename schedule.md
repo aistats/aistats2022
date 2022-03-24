@@ -52,7 +52,7 @@ see <https://mementor.net> for exact times.
 |15:00-16:00| [Oral Session 7](orals.html#day-2-tue-march-29): Bayesian methods / Deep learning              |
 |16:00-16:45| Break                                                                                          |
 |16:45-17:00| [Awards](awards.html) ceremony                                                                 |
-|17:00-18:00| [Test-of-time](awards.html#aistats-2022-test-of-time-award),  J. Z. Kolter and T. S. Jakkola   |
+|17:00-18:00| [Test-of-time](awards.html#aistats-2022-test-of-time-award),  J. Z. Kolter and T. S. Jaakkola   |
 |18:00-19:00| [WiML-CWS Social](community.html#wiml-cws-social)                                              |
 
 
