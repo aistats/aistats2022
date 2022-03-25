@@ -42,7 +42,7 @@ if you have any questions.
 
 Agenda (all times are [UTC](https://www.utctime.net/))
 
-|12:30-13:15 <br /> (livestream) | **Affinity Group Supported Pathways to ML Research Panel** <br /> _Panelists_: Ezinne Nwanko (UC Berkeley), Sanae Lofti (New York University), Maria Skoularidou (University of Cambridge), Johan Obando Cerón (Mila, University of Montreal)  <br /> _Moderator_: Pablo Samuel Castro (Google Brain)|
+|12:30-13:15 <br /> (livestream) | **Affinity Group Supported Pathways to ML Research Panel** <br /> _Panelists_: Ezinne Nwankwo (UC Berkeley), Sanae Lofti (New York University), Maria Skoularidou (University of Cambridge), Johan Obando Cerón (Mila, University of Montreal)  <br /> _Moderator_: Pablo Samuel Castro (Google Brain)|
 |13:15-14:00 <br /> <nobr>(no livestream)</nobr> | **Open Social** | 
 
 ## WiML-CWS Social
