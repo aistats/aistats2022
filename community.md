@@ -30,7 +30,7 @@ if you have any questions.
 
 _Tuesday, March 29th, 12:30-14:00 UTC_
 
-Ezinne Nwanko (UC Berkeley), Sanae Lofti (New York University), Maria
+Ezinne Nwankwo (UC Berkeley), Sanae Lofti (New York University), Maria
 Skoularidou (University of Cambridge), and Johan Obando Cerón (Mila, University
 of Montreal) will discuss their career paths and how their respective affinity
 groups helped them along their journey in a panel moderated by Pablo Samuel
