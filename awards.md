@@ -18,7 +18,7 @@ Congratulations!
 # {{ site.conference.short_name }} {{ site.conference.year }} Best Paper Award 
 
 
-Congraulations to Charita Dellaporta, Jeremias Knoblauch, Theodoros Damoulas
+Congratulations to Charita Dellaporta, Jeremias Knoblauch, Theodoros Damoulas
 and Francois-Xavier Briol for their paper 
 **Robust Bayesian Inference for Simulator-based Models
 via the MMD Posterior Bootstrap**.
