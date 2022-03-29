@@ -18,15 +18,22 @@ Congratulations!
 # {{ site.conference.short_name }} {{ site.conference.year }} Best Paper Award 
 
 
-The following papers have been nominated to Best Paper Award. Congratulations to the authors!
+Congratulations to Charita Dellaporta, Jeremias Knoblauch, Theodoros Damoulas
+and Francois-Xavier Briol for their paper 
+**Robust Bayesian Inference for Simulator-based Models
+via the MMD Posterior Bootstrap**.
 
-+ A general class of surrogate functions for stable and efficient reinforcement learning (Sharan Vaswani, Olivier Bachem, Simone Totaro, Robert Müller, Shivam Garg, Matthieu Geist, Marlos C. Machado, Pablo Samuel Castro, Nicolas Le Roux)
-+ Robust Bayesian Inference for Simulator-based Models via the MMD Posterior Bootstrap (Charita Dellaporta, Jeremias Knoblauch, Theodoros Damoulas, Francois-Xavier Briol)
-+ Survival regression with proper scoring rules and monotonic neural networks (David Rindt, Robert Hu, David Steinsaltz, Dino Sejdinovic)
-+ Towards an Understanding of Default Policies in Multitask Policy Optimization (Ted Moskovitz, Michael Arbel, Jack Parker-Holder, Aldo Pacchiano)
 
-The Best Paper Award will be revealed during the Award Ceremony on Tuesday 29th.
+##  Honorable Mentions 
 
+
+
++ _A general class of surrogate functions for stable and efficient reinforcement learning_, Sharan Vaswani, Olivier Bachem, Simone Totaro, Robert Müller, Shivam Garg, Matthieu Geist, Marlos C. Machado, Pablo Samuel Castro and Nicolas Le Roux.
++ _Survival regression with proper scoring rules and monotonic neural networks_, David Rindt, Robert Hu, David Steinsaltz and Dino Sejdinovic.
++ _Towards an Understanding of Default Policies in Multitask Policy Optimization_, Ted Moskovitz, Michael Arbel, Jack Parker-Holder and Aldo Pacchiano.
+
+
+Congratulations to all the authors!
 
 ## Award Committee 
 
