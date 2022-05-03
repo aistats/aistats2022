@@ -50,8 +50,8 @@ conference:
   image: conference-venue.png
   proceedings:
     # When proceedings are published add url here.
-    url:      
-    show: false
+    url:  http://proceedings.mlr.press/v151/ 
+    show: true
   sponsors:
     # link to external sponsor page 
     url: https://virtual.aistats.org/Conferences/2022/Sponsors
