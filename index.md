@@ -20,6 +20,8 @@ Registration is now open on the conference virtual site:
 
 ## Updates 
 
+- [May 3, 2022] The conference proceedings are now available <http://proceedings.mlr.press/v151/>.
+
 - [March 18, 2022] Congratulations to the Test of Time Award recipients 
 and to the nominated for Best Paper Award, [details here](awards.html).  
 The Best Paper Award will be revealed during the Award Ceremony, Tuesday 29th.   
