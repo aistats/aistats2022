@@ -25,7 +25,7 @@ details[open] > summary {
 
 </style>
 
-<h1>{{ site.conference.short_name }} {{ site.conference.year }} Oral Sessions Schedule</h1>
+<h1>{{ site.data.conference.short_name }} {{ site.data.conference.year }} Oral Sessions Schedule</h1>
 
 **All times are UTC.**
 You can check current UTC time [here](https://www.utctime.net/)

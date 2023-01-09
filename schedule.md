@@ -4,7 +4,7 @@ layout: default
 weight: 7
 ---
 
-# {{ site.conference.short_name }} {{ site.conference.year }} Program Schedule 
+# {{ site.data.conference.short_name }} {{ site.data.conference.year }} Program Schedule 
 
 **All times are UTC.**
 You can check current UTC time [here](https://www.utctime.net/)

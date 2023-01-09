@@ -4,7 +4,7 @@ layout: default
 hide: true
 ---
 
-# {{ site.conference.short_name }} {{ site.conference.year }} Invited Talks 
+# {{ site.data.conference.short_name }} {{ site.data.conference.year }} Invited Talks 
 
 
 

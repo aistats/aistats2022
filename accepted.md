@@ -4,7 +4,7 @@ layout: default
 weight: 5
 ---
 
-<h1>{{ site.conference.short_name }} {{ site.conference.year }} Accepted Papers</h1>
+<h1>{{ site.data.conference.short_name }} {{ site.data.conference.year }} Accepted Papers</h1>
 
 {%- if site.data.accepted_papers -%}
 <ul>

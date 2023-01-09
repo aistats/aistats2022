@@ -5,10 +5,10 @@ weight: 1
 ---
 
 
-# The {{ site.conference.instance }} {{ site.conference.styling }} {{site.conference.full_name }}
+# The {{ site.data.conference.instance }} {{ site.data.conference.styling }} {{site.data.conference.full_name }}
 
-### {{ site.conference.dates[0] | date: "%B %-d"}} - {{ site.conference.dates.last | date: "%B %-d, %Y" }}
-### {{ site.conference.location }}
+### {{ site.data.conference.dates[0] | date: "%B %-d"}} - {{ site.data.conference.dates.last | date: "%B %-d, %Y" }}
+### {{ site.data.conference.location }}
 
 Since its inception in 1985, AISTATS has been an interdisciplinary gathering of researchers at the intersection of artificial intelligence, machine learning, statistics, and related areas.
 
@@ -60,5 +60,5 @@ assist underrepresented and/or first-time AISTATS submitters. To apply to be a
 mentor or a mentee, [click here](https://forms.gle/eQMxu293dM8ZfC6H7) by September 20th 2021.
 
 - [Sep 10, 2021] **The submission form is now open in CMT**. Authors can submit
-  their papers via [this link]({{ site.conference.submission.url }}). 
+  their papers via [this link]({{ site.data.conference.submission.url }}). 
 For questions, see the [FAQs]({{ "faqs.html" | relative_url }}). 

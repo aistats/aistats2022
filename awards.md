@@ -4,7 +4,7 @@ layout: default
 weight: 8
 ---
 
-# {{ site.conference.short_name }} {{ site.conference.year }} Test of Time Award 
+# {{ site.data.conference.short_name }} {{ site.data.conference.year }} Test of Time Award 
 
 
 This year, AISTATS features a _Test of Time Award_ to recognize a paper from 10
@@ -15,7 +15,7 @@ HMMs with Application to Energy Disaggregation](https://zicokolter.com/publicati
 Congratulations!
 
 
-# {{ site.conference.short_name }} {{ site.conference.year }} Best Paper Award 
+# {{ site.data.conference.short_name }} {{ site.data.conference.year }} Best Paper Award 
 
 
 Congratulations to Charita Dellaporta, Jeremias Knoblauch, Theodoros Damoulas
